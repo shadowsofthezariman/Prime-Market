@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Prime Market — Weapons</title>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:wght@400;600;700&family=Barlow+Condensed:wght@700;900&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="style.css"/>
+  <link rel="stylesheet" href="weapons.css"/>
+</head>
+<body>
+
+  <div class="scanline"></div>
+  <div class="noise"></div>
+
+  <header>
+    <div class="header-inner">
+      <div class="logo">
+        <span class="logo-icon">◈</span>
+        <span class="logo-text">PRIME<span class="accent">MARKET</span></span>
+      </div>
+      <nav id="main-nav">
+        <a href="index.html">Warframes</a>
+        <a href="#primary">Primary</a>
+        <a href="#secondary">Secondary</a>
+        <a href="#melee">Melee</a>
+        <a href="#other">Other</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero hero--weapons">
+    <div class="hero-bg-text">⚔</div>
+    <div class="hero-content">
+      <p class="hero-eyebrow">UPDATED DAILY · PC PRICES</p>
+      <h1 class="hero-title">PRIME<br/><span class="accent">WEAPONS</span></h1>
+      <p class="hero-sub">Live Prime Weapon Set prices pulled daily from Warframe.Market. Top 10 most expensive &amp; cheapest per category.</p>
+      <a href="#primary" class="cta-btn">VIEW PRICES ↓</a>
+    </div>
+    <div class="hero-stats">
+      <div class="stat"><span class="stat-num" id="last-updated">—</span><span class="stat-label">Last Updated</span></div>
+      <div class="stat"><span class="stat-num">113</span><span class="stat-label">Weapons Tracked</span></div>
+      <div class="stat"><span class="stat-num">3</span><span class="stat-label">Categories</span></div>
+    </div>
+  </section>
+
+  <!-- PRIMARY -->
+  <section id="primary" class="content-section">
+    <div class="section-header">
+      <h2>PRIMARY <span class="accent">WEAPONS</span></h2>
+      <span class="section-sub">33 prime sets tracked</span>
+    </div>
+
+    <div class="cat-block">
+      <div class="cat-label cat-label--expensive">⬆ MOST EXPENSIVE</div>
+      <div class="card-grid" id="primary-expensive">
+        <div class="loading-state">⚙️ Loading prices...</div>
+      </div>
+    </div>
+
+    <div class="cat-block">
+      <div class="cat-label cat-label--cheap">⬇ BEST DEALS</div>
+      <div class="card-grid" id="primary-cheapest">
+        <div class="loading-state">⚙️ Loading prices...</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- SECONDARY -->
+  <section id="secondary" class="content-section alt-bg">
+    <div class="section-header">
+      <h2>SECONDARY <span class="accent">WEAPONS</span></h2>
+      <span class="section-sub">30 prime sets tracked</span>
+    </div>
+
+    <div class="cat-block">
+      <div class="cat-label cat-label--expensive">⬆ MOST EXPENSIVE</div>
+      <div class="card-grid" id="secondary-expensive">
+        <div class="loading-state">⚙️ Loading prices...</div>
+      </div>
+    </div>
+
+    <div class="cat-block">
+      <div class="cat-label cat-label--cheap">⬇ BEST DEALS</div>
+      <div class="card-grid" id="secondary-cheapest">
+        <div class="loading-state">⚙️ Loading prices...</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- MELEE -->
+  <section id="melee" class="content-section">
+    <div class="section-header">
+      <h2>MELEE <span class="accent">WEAPONS</span></h2>
+      <span class="section-sub">40 prime sets tracked</span>
+    </div>
+
+    <div class="cat-block">
+      <div class="cat-label cat-label--expensive">⬆ MOST EXPENSIVE</div>
+      <div class="card-grid" id="melee-expensive">
+        <div class="loading-state">⚙️ Loading prices...</div>
+      </div>
+    </div>
+
+    <div class="cat-block">
+      <div class="cat-label cat-label--cheap">⬇ BEST DEALS</div>
+      <div class="card-grid" id="melee-cheapest">
+        <div class="loading-state">⚙️ Loading prices...</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- OTHER (Archgun, Companion, Archwing) -->
+  <section id="other" class="content-section alt-bg">
+    <div class="section-header">
+      <h2>OTHER <span class="accent">PRIME SETS</span></h2>
+      <span class="section-sub">Archgun · Companion · Archwing</span>
+    </div>
+
+    <div class="cat-block">
+      <div class="cat-label">ARCHGUN</div>
+      <div class="card-grid" id="archgun-grid">
+        <div class="loading-state">⚙️ Loading prices...</div>
+      </div>
+    </div>
+
+    <div class="cat-block">
+      <div class="cat-label">COMPANION</div>
+      <div class="card-grid" id="companion-grid">
+        <div class="loading-state">⚙️ Loading prices...</div>
+      </div>
+    </div>
+
+    <div class="cat-block">
+      <div class="cat-label">ARCHWING</div>
+      <div class="card-grid" id="archwing-grid">
+        <div class="loading-state">⚙️ Loading prices...</div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <span>PRIME MARKET &copy; <span id="footer-year"></span></span>
+    <span>Prices via Warframe.Market</span>
+    <a href="index.html" style="color:var(--muted);text-decoration:none;">← Warframes</a>
+    <a href="https://shadowsofthezariman.github.io/Warframe-Weekly" style="color:var(--muted);text-decoration:none;">← Warframe Weekly</a>
+  </footer>
+
+  <script src="weapons_app.js"></script>
+</body>
+</html>
