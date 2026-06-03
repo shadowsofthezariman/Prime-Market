@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Prime Market</title>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:wght@400;600;700&family=Barlow+Condensed:wght@700;900&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+
+  <div class="scanline"></div>
+  <div class="noise"></div>
+
+  <header>
+    <div class="header-inner">
+      <div class="logo">
+        <span class="logo-icon">◈</span>
+        <span class="logo-text">PRIME<span class="accent">MARKET</span></span>
+      </div>
+      <nav id="main-nav">
+        <a href="#expensive">Most Expensive</a>
+        <a href="#cheapest">Best Deals</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="hero-bg-text">◈</div>
+    <div class="hero-content">
+      <p class="hero-eyebrow">UPDATED DAILY · PC PRICES</p>
+      <h1 class="hero-title">PRIME<br/><span class="accent">MARKET</span></h1>
+      <p class="hero-sub">Live Warframe Prime Set prices pulled daily from Warframe.Market. No refreshing needed.</p>
+      <a href="#expensive" class="cta-btn">VIEW PRICES ↓</a>
+    </div>
+    <div class="hero-stats">
+      <div class="stat"><span class="stat-num" id="last-updated">—</span><span class="stat-label">Last Updated</span></div>
+      <div class="stat"><span class="stat-num">10</span><span class="stat-label">Most Expensive</span></div>
+      <div class="stat"><span class="stat-num">5</span><span class="stat-label">Best Deals</span></div>
+    </div>
+  </section>
+
+  <section id="expensive" class="content-section">
+    <div class="section-header">
+      <h2>MOST <span class="accent">EXPENSIVE</span></h2>
+      <span class="section-sub">Top 10 highest avg sell orders</span>
+    </div>
+    <div class="card-grid" id="expensive-grid">
+      <div class="loading-state">⚙️ Loading prices...</div>
+    </div>
+  </section>
+
+  <section id="cheapest" class="content-section alt-bg">
+    <div class="section-header">
+      <h2>BEST <span class="accent">DEALS</span></h2>
+      <span class="section-sub">Top 5 lowest avg sell orders</span>
+    </div>
+    <div class="card-grid" id="cheapest-grid">
+      <div class="loading-state">⚙️ Loading prices...</div>
+    </div>
+  </section>
+
+  <footer>
+    <span>PRIME MARKET &copy; <span id="footer-year"></span></span>
+    <span>Prices via Warframe.Market</span>
+    <a href="https://shadowsofthezariman.github.io/Warframe-Weekly" style="color:var(--muted);text-decoration:none;">← Warframe Weekly</a>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
