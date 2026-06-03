@@ -120,6 +120,26 @@ nav a:hover { color: var(--accent); }
 .price-card[data-rank="2"] .price-rank { color: #c0c0c0; }
 .price-card[data-rank="3"] .price-rank { color: #cd7f32; }
 
+.card-warframe-img {
+  display: block;
+  width: 100%;
+  max-height: 140px;
+  object-fit: contain;
+  margin: 0.6rem 0 1rem;
+  filter: drop-shadow(0 0 10px rgba(0,255,224,0.15));
+  transition: filter 0.3s, transform 0.3s;
+}
+.price-card:hover .card-warframe-img {
+  filter: drop-shadow(0 0 18px rgba(0,255,224,0.45));
+  transform: scale(1.04);
+}
+.price-card.deal .card-warframe-img {
+  filter: drop-shadow(0 0 10px rgba(74,222,128,0.2));
+}
+.price-card.deal:hover .card-warframe-img {
+  filter: drop-shadow(0 0 18px rgba(74,222,128,0.5));
+}
+
 .price-name { font-family: var(--font-cond); font-weight: 900; font-size: 1.2rem; letter-spacing: 0.5px; margin-bottom: 0.6rem; line-height: 1.2; }
 .price-plat { font-family: var(--font-head); font-size: 2rem; color: var(--accent); letter-spacing: 1px; line-height: 1; }
 .price-plat-label { font-family: var(--font-cond); font-size: 0.7rem; letter-spacing: 2px; color: var(--muted); margin-bottom: 0.8rem; }

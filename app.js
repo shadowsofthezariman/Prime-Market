@@ -17,6 +17,11 @@ function escapeHTML(str) {
     .replace(/>/g,'&gt;').replace(/"/g,'&quot;');
 }
 
+// Convert slug (e.g. "nidus") → image path (e.g. "images/Warframes/Nidus Prime.png")
+function warframeImg(name) {
+  return `images/Warframes/${name} Prime.png`;
+}
+
 function renderGrid(gridId, items, isDeal) {
   const grid = document.getElementById(gridId);
   if (!items || !items.length) {
@@ -24,19 +29,22 @@ function renderGrid(gridId, items, isDeal) {
     return;
   }
 
-  grid.innerHTML = items.map((item, i) => `
+  grid.innerHTML = items.map((item, i) => {
+    const imgSrc = warframeImg(item.name);
+    return `
     <a class="price-card ${isDeal ? 'deal' : ''}"
        data-rank="${i + 1}"
        href="https://warframe.market/items/${item.slug}_prime_set"
        target="_blank" rel="noopener"
        style="animation-delay: ${i * 0.05}s">
       <div class="price-rank">#${i + 1}</div>
+      <img class="card-warframe-img" src="${escapeHTML(imgSrc)}" alt="${escapeHTML(item.name)} Prime" loading="lazy" />
       <div class="price-name">${escapeHTML(item.name)} Prime</div>
       <div class="price-plat">${item.avg_price}</div>
       <div class="price-plat-label">◈ avg platinum</div>
       <div class="price-link">View on Warframe.Market →</div>
     </a>
-  `).join('');
+  `}).join('');
 }
 
 async function init() {
