@@ -17,7 +17,7 @@ WARFRAME_SETS = [
 ]
 
 def fetch_price(slug):
-    url = f"https://api.warframe.market/v2/items/{slug}_prime_set/orders"
+    url = f"https://api.warframe.market/v2/orders/item/{slug}_prime_set/top"
     req = urllib.request.Request(url, headers={
         "Platform": "pc",
         "Language": "en",
