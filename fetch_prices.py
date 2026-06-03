@@ -18,25 +18,36 @@ WARFRAME_SETS = [
 
 def fetch_price(slug):
     url = f"https://api.warframe.market/v2/orders/item/{slug}_prime_set/top"
+
     req = urllib.request.Request(url, headers={
         "Platform": "pc",
         "Language": "en",
         "User-Agent": "WarframeWeekly/1.0"
     })
+
     try:
         with urllib.request.urlopen(req, timeout=10) as res:
             data = json.loads(res.read())
-        orders = data.get("payload", {}).get("orders", [])
-        sell_prices = [
-            o["platinum"] for o in orders
-            if o.get("order_type") == "sell"
-            and o.get("user", {}).get("status") == "ingame"
-        ]
+
+        payload = data.get("data", {})
+        sell_orders = payload.get("sell", [])
+
+        sell_prices = []
+
+        for o in sell_orders:
+            user = o.get("user", {})
+            if user.get("status") == "ingame":
+                price = o.get("platinum") or o.get("price")
+                if price:
+                    sell_prices.append(price)
+
         if not sell_prices:
             return None
+
         return round(sum(sell_prices) / len(sell_prices))
+
     except Exception as e:
-        print(f"  Error fetching {slug}: {e}")
+        print(f"Error fetching {slug}: {e}")
         return None
 
 results = []
