@@ -48,6 +48,35 @@ nav { display: flex; gap: 2rem; }
 nav a { color: var(--muted); text-decoration: none; font-family: var(--font-cond); font-size: 0.85rem; letter-spacing: 2px; text-transform: uppercase; transition: color 0.2s; }
 nav a:hover { color: var(--accent); }
 
+.hamburger {
+  display: none;
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text);
+  font-size: 1.2rem;
+  padding: 0.3rem 0.7rem;
+  cursor: pointer;
+  transition: border-color 0.2s, color 0.2s;
+}
+.hamburger:hover { border-color: var(--accent); color: var(--accent); }
+
+@media (max-width: 700px) {
+  .hamburger { display: block; }
+  #main-nav {
+    display: none;
+    position: absolute;
+    top: 60px; left: 0; right: 0;
+    background: rgba(10,10,15,0.97);
+    border-bottom: 1px solid var(--border);
+    flex-direction: column;
+    padding: 1rem 2rem;
+    gap: 1rem;
+    z-index: 99;
+  }
+  #main-nav.open { display: flex; }
+  nav a { font-size: 0.9rem; }
+}
+
 /* ── HERO ───────────────────────────────────────────── */
 .hero {
   min-height: 100vh; display: flex; flex-direction: column; justify-content: center;

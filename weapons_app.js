@@ -19,10 +19,12 @@ function escapeHTML(str) {
 
 // Images live in images/Weapons/ named like "Braton Prime.png"
 function weaponImg(name) {
-  return `images/Weapons/${name} Prime.png`;
+  const imgName = name.includes('Prime') ? name : name + ' Prime';
+  return `images/Weapons/${imgName}.png`;
 }
 
 function makeCard(item, rank, isDeal) {
+  const displayName = item.name.includes('Prime') ? item.name : item.name + ' Prime';
   const imgSrc = weaponImg(item.name);
   // Gotva and any other custom-url items link directly without _prime_set
   const url = item.custom_url
@@ -36,8 +38,8 @@ function makeCard(item, rank, isDeal) {
        target="_blank" rel="noopener"
        style="animation-delay: ${(rank - 1) * 0.04}s">
       <div class="price-rank">#${rank}</div>
-      <img class="card-warframe-img" src="${escapeHTML(imgSrc)}" alt="${escapeHTML(item.name)} Prime" loading="lazy" />
-      <div class="price-name">${escapeHTML(item.name.includes('Prime') ? item.name : item.name + ' Prime')}</div>
+      <img class="card-warframe-img" src="${escapeHTML(imgSrc)}" alt="${escapeHTML(displayName)}" loading="lazy" />
+      <div class="price-name">${escapeHTML(displayName)}</div>
       <div class="price-plat">${item.avg_price}</div>
       <div class="price-plat-label">◈ avg platinum</div>
       <div class="price-link">View on Warframe.Market →</div>
