@@ -2,7 +2,7 @@ name: Update Prime Prices
 
 on:
   schedule:
-    - cron: '0 6 * * *'   # daily at 6am UTC
+    - cron: '0 14 * * *'   # daily at 14 UTC, 7am pst, 6pdt
   workflow_dispatch:        # manual trigger from GitHub
 
 jobs:
