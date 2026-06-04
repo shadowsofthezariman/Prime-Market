@@ -46,6 +46,7 @@ WEAPON_SETS = [
     ("vadarya",           "Vadarya",           "primary",   None),
     ("vectis",            "Vectis",            "primary",   None),
     ("zhuge",             "Zhuge",             "primary",   None),
+    ("afentis",             "Afentis",             "primary",   None),
 
     # ── SECONDARY ────────────────────────────────────────────────────────────
     ("afuris",            "Afuris",            "secondary", None),
@@ -78,6 +79,7 @@ WEAPON_SETS = [
     ("velox",             "Velox",             "secondary", None),
     ("zakti",             "Zakti",             "secondary", None),
     ("zylok",             "Zylok",             "secondary", None),
+    ("athodai",             "Athodai",             "secondary", None),
 
     # ── MELEE ────────────────────────────────────────────────────────────────
     ("ankyros",           "Ankyros",           "melee",     None),
