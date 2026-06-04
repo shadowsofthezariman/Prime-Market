@@ -132,6 +132,7 @@ WEAPON_SETS = [
     ("nautilus",          "Nautilus",          "companion", None),
     ("shade",             "Shade",             "companion", None),
     ("wyrm",              "Wyrm",              "companion", None),
+    ("kavasa_prime_kubrow_collar","Kavasa Prime Kubrow Collar","companion", "kavasa_prime_kubrow_collar_set"), #weird primed naming
 
     # ── ARCHWING ─────────────────────────────────────────────────────────────
     ("odonata",           "Odonata",           "archwing",  None),

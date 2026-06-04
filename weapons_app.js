@@ -37,7 +37,7 @@ function makeCard(item, rank, isDeal) {
        style="animation-delay: ${(rank - 1) * 0.04}s">
       <div class="price-rank">#${rank}</div>
       <img class="card-warframe-img" src="${escapeHTML(imgSrc)}" alt="${escapeHTML(item.name)} Prime" loading="lazy" />
-      <div class="price-name">${escapeHTML(item.name)} Prime</div>
+      <div class="price-name">${escapeHTML(item.name.includes('Prime') ? item.name : item.name + ' Prime')}</div>
       <div class="price-plat">${item.avg_price}</div>
       <div class="price-plat-label">◈ avg platinum</div>
       <div class="price-link">View on Warframe.Market →</div>
