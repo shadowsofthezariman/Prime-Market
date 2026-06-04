@@ -240,3 +240,15 @@ footer {
   .section-header { flex-direction: column; }
   footer { flex-direction: column; gap: 0.5rem; align-items: center; }
 }
+
+@media (max-width: 700px) {
+  .alt-bg .section-header,
+  .alt-bg .card-grid {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .content-section {
+    padding-left: 2;
+    padding-right: 2;
+  }
+}

@@ -60,3 +60,10 @@
   padding-left: 0;
   padding-right: 0;
 }
+
+@media (max-width: 700px) {
+  .alt-bg .cat-block {
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
