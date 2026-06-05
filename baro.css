@@ -1,0 +1,231 @@
+/* ── BARO KI'TEER PAGE ──────────────────────────────── */
+
+/* Baro's signature color: warm void gold/amber */
+:root {
+  --baro: #e8a020;
+  --baro-dim: rgba(232, 160, 32, 0.12);
+  --baro-border: rgba(232, 160, 32, 0.3);
+}
+
+.baro-accent { color: var(--baro); }
+.baro-num    { color: var(--baro) !important; }
+
+/* Hero tweaks */
+.hero--baro .hero-bg-text {
+  font-size: clamp(100px, 18vw, 240px);
+  -webkit-text-stroke: 1px rgba(232, 160, 32, 0.06);
+  right: -2rem;
+  letter-spacing: -4px;
+}
+
+.baro-cta {
+  background: var(--baro) !important;
+}
+.baro-cta:hover {
+  background: #fff !important;
+}
+
+/* ── BARO GRID ──────────────────────────────────────── */
+.baro-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(160px, 1fr));
+  gap: 1rem;
+  margin-top: 1rem;
+}
+
+/* Other section can be wider cards since it's text-only */
+.baro-grid--other {
+  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+}
+
+/* ── BARO CARD ──────────────────────────────────────── */
+.baro-card {
+  background: var(--card-bg);
+  border: 1px solid var(--border);
+  padding: 1.2rem 1rem;
+  text-decoration: none;
+  color: var(--text);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+  transition: transform 0.2s, border-color 0.2s;
+  animation: fadeUp 0.4s ease both;
+  cursor: default;
+}
+
+/* Cards that link to warframe.market get pointer */
+a.baro-card { cursor: pointer; }
+
+.baro-card::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 2px;
+  background: var(--baro);
+  transform: scaleX(0);
+  transform-origin: left;
+  transition: transform 0.25s ease;
+}
+.baro-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--baro-border);
+}
+.baro-card:hover::before {
+  transform: scaleX(1);
+}
+
+/* Amber glow shimmer on hover */
+.baro-card::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(ellipse at 50% 0%, rgba(232,160,32,0.07) 0%, transparent 70%);
+  opacity: 0;
+  transition: opacity 0.3s;
+  pointer-events: none;
+}
+.baro-card:hover::after { opacity: 1; }
+
+.baro-card-img {
+  width: 96px;
+  height: 96px;
+  object-fit: contain;
+  margin-bottom: 0.8rem;
+  filter: drop-shadow(0 0 8px rgba(232, 160, 32, 0.2));
+  transition: filter 0.3s, transform 0.3s;
+}
+.baro-card:hover .baro-card-img {
+  filter: drop-shadow(0 0 16px rgba(232, 160, 32, 0.55));
+  transform: scale(1.06);
+}
+
+.baro-card-name {
+  font-family: var(--font-cond);
+  font-weight: 700;
+  font-size: 0.85rem;
+  letter-spacing: 0.5px;
+  line-height: 1.25;
+  color: var(--text);
+}
+
+/* "Other" items (relic / key) — icon + name + price in a row */
+.baro-card--other {
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: left;
+  gap: 0.8rem;
+  padding: 1rem 1.2rem;
+  flex-wrap: wrap;
+}
+.baro-card--other .baro-card-icon {
+  font-size: 1.6rem;
+  flex-shrink: 0;
+  color: var(--baro);
+}
+.baro-other-body {
+  flex: 1;
+  min-width: 0;
+}
+.baro-card--other .baro-card-name {
+  font-size: 0.88rem;
+  margin-bottom: 0.15rem;
+}
+.baro-card--other .baro-card-price {
+  font-size: 1.3rem;
+  margin-top: 0.1rem;
+}
+.baro-card--other .baro-card-link {
+  border-top: none;
+  padding-top: 0;
+  margin-top: 0;
+  width: auto;
+  margin-left: auto;
+  white-space: nowrap;
+}
+
+/* ── ALT-BG ALIGNMENT ────────────────────────────────── */
+.alt-bg .baro-grid {
+  max-width: 1200px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+@media (max-width: 700px) {
+  .alt-bg .baro-grid {
+    padding-left: 0;
+    padding-right: 0;
+  }
+  .baro-grid {
+    grid-template-columns: repeat(auto-fill, minmax(130px, 1fr));
+  }
+  .baro-grid--other {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* ── MOD / WEAPON CARD PRICE DISPLAY ────────────────── */
+
+.baro-card-price {
+  font-family: var(--font-head);
+  font-size: 1.8rem;
+  color: var(--baro);
+  line-height: 1;
+  margin-top: 0.5rem;
+  letter-spacing: 1px;
+}
+
+.baro-plat-sym {
+  font-size: 1.2rem;
+  color: var(--baro);
+  opacity: 0.7;
+}
+
+.baro-card-rank-label {
+  font-family: var(--font-cond);
+  font-size: 0.65rem;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: var(--muted);
+  margin-bottom: 0.3rem;
+}
+
+/* Secondary price (unranked shown below maxed) */
+.baro-card-subprice {
+  font-family: var(--font-cond);
+  font-size: 0.78rem;
+  letter-spacing: 1px;
+  color: var(--muted);
+  border-top: 1px solid var(--border);
+  padding-top: 0.4rem;
+  margin-top: 0.2rem;
+  width: 100%;
+  text-align: center;
+}
+
+.baro-card-link {
+  display: block;
+  margin-top: auto;
+  padding-top: 0.7rem;
+  font-family: var(--font-cond);
+  font-size: 0.72rem;
+  letter-spacing: 1px;
+  color: var(--muted);
+  text-decoration: none;
+  border-top: 1px solid var(--border);
+  transition: color 0.2s;
+  width: 100%;
+  text-align: center;
+}
+.baro-card:hover .baro-card-link { color: var(--baro); }
+
+/* Mod cards are a bit taller to fit both prices */
+.baro-card--mod {
+  padding-bottom: 1rem;
+  gap: 0.2rem;
+}

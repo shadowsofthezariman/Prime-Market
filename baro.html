@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Void Market — Baro Ki'teer</title>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Barlow:wght@400;600;700&family=Barlow+Condensed:wght@700;900&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="style.css"/>
+  <link rel="stylesheet" href="baro.css"/>
+</head>
+<body>
+
+  <div class="scanline"></div>
+  <div class="noise"></div>
+
+  <header>
+    <div class="header-inner">
+      <div class="logo">
+        <span class="logo-icon">◈</span>
+        <span class="logo-text">VOID<span class="accent">MARKET</span></span>
+      </div>
+      <button class="hamburger" id="hamburger">☰</button>
+      <nav id="main-nav">
+        <a href="index.html">Warframes</a>
+        <a href="weapons.html">⚔ Weapons</a>
+        <a href="#mods">Mods</a>
+        <a href="#weapons">Weapons</a>
+        <a href="#other">Other</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero hero--baro">
+    <div class="hero-bg-text">BARO</div>
+    <div class="hero-content">
+      <p class="hero-eyebrow">THE VOID TRADER · EXCLUSIVE ITEMS</p>
+      <h1 class="hero-title">VOID<br/><span class="baro-accent">MARKET</span></h1>
+      <p class="hero-sub">Baro Ki'teer's tradeable Primed mods, Prisma weapons, Vandals, and rare relics — all in one place.</p>
+      <a href="#mods" class="cta-btn baro-cta">VIEW ITEMS ↓</a>
+    </div>
+    <div class="hero-stats">
+      <div class="stat"><span class="stat-num baro-num" id="last-updated">—</span><span class="stat-label">Last Updated</span></div>
+      <div class="stat"><span class="stat-num baro-num" id="mod-count">—</span><span class="stat-label">Primed Mods</span></div>
+      <div class="stat"><span class="stat-num baro-num" id="weapon-count">—</span><span class="stat-label">Weapons</span></div>
+      <div class="stat"><span class="stat-num baro-num" id="other-count">—</span><span class="stat-label">Other Items</span></div>
+    </div>
+  </section>
+
+  <!-- MODS -->
+  <section id="mods" class="content-section">
+    <div class="section-header">
+      <h2>PRIMED <span class="baro-accent">MODS</span></h2>
+      <span class="section-sub">Exclusive Baro Ki'teer mods</span>
+    </div>
+    <div class="baro-grid" id="mods-grid">
+      <div class="loading-state">⚙️ Loading mods...</div>
+    </div>
+  </section>
+
+  <!-- WEAPONS -->
+  <section id="weapons" class="content-section alt-bg">
+    <div class="section-header">
+      <h2>WEAPON <span class="baro-accent">VARIANTS</span></h2>
+      <span class="section-sub">Prisma, Vandal, Wraith &amp; more</span>
+    </div>
+    <div class="baro-grid" id="weapons-grid">
+      <div class="loading-state">⚙️ Loading weapons...</div>
+    </div>
+  </section>
+
+  <!-- OTHER -->
+  <section id="other" class="content-section">
+    <div class="section-header">
+      <h2>OTHER <span class="baro-accent">ITEMS</span></h2>
+      <span class="section-sub">Relics &amp; Void-Signal key</span>
+    </div>
+    <div class="baro-grid baro-grid--other" id="other-grid">
+      <div class="loading-state">⚙️ Loading items...</div>
+    </div>
+  </section>
+
+  <footer>
+    <span>VOID MARKET &copy; <span id="footer-year"></span></span>
+    <span>The Void Trader cometh</span>
+    <a href="index.html" style="color:var(--muted);text-decoration:none;">← Warframes</a>
+    <a href="weapons.html" style="color:var(--muted);text-decoration:none;">⚔ Weapons</a>
+    <a href="https://shadowsofthezariman.github.io/Warframe-Weekly" style="color:var(--muted);text-decoration:none;">← Warframe Weekly</a>
+  </footer>
+
+  <script src="baro_app.js"></script>
+  <script src="nav.js"></script>
+</body>
+</html>

@@ -1,0 +1,6 @@
+Axi A2 Relic
+Axi A5 Relic
+Axi M5 Relic
+Axi V8 Relic
+Neo 01 Relic
+Baro Void-Signal
