@@ -1,20 +1,20 @@
 {
-  "updated": "2026-06-06T17:53:31.583001+00:00",
+  "updated": "2026-06-07T17:56:05.311449+00:00",
   "expensive": [
     {
       "slug": "vauban",
       "name": "Vauban",
-      "avg_price": 110
+      "avg_price": 114
     },
     {
       "slug": "limbo",
       "name": "Limbo",
-      "avg_price": 104
+      "avg_price": 101
     },
     {
       "slug": "hydroid",
       "name": "Hydroid",
-      "avg_price": 94
+      "avg_price": 96
     },
     {
       "slug": "nekros",
@@ -22,33 +22,33 @@
       "avg_price": 90
     },
     {
-      "slug": "mirage",
-      "name": "Mirage",
+      "slug": "wukong",
+      "name": "Wukong",
       "avg_price": 90
     },
     {
-      "slug": "nidus",
-      "name": "Nidus",
-      "avg_price": 89
-    },
-    {
-      "slug": "titania",
-      "name": "Titania",
-      "avg_price": 88
-    },
-    {
-      "slug": "garuda",
-      "name": "Garuda",
+      "slug": "mirage",
+      "name": "Mirage",
       "avg_price": 88
     },
     {
       "slug": "chroma",
       "name": "Chroma",
-      "avg_price": 86
+      "avg_price": 87
     },
     {
-      "slug": "wukong",
-      "name": "Wukong",
+      "slug": "octavia",
+      "name": "Octavia",
+      "avg_price": 87
+    },
+    {
+      "slug": "nidus",
+      "name": "Nidus",
+      "avg_price": 87
+    },
+    {
+      "slug": "titania",
+      "name": "Titania",
       "avg_price": 85
     }
   ],
@@ -56,27 +56,27 @@
     {
       "slug": "lavos",
       "name": "Lavos",
-      "avg_price": 22
+      "avg_price": 20
     },
     {
       "slug": "xaku",
       "name": "Xaku",
-      "avg_price": 25
+      "avg_price": 24
     },
     {
       "slug": "gyre",
       "name": "Gyre",
-      "avg_price": 36
-    },
-    {
-      "slug": "yareli",
-      "name": "Yareli",
-      "avg_price": 39
+      "avg_price": 35
     },
     {
       "slug": "protea",
       "name": "Protea",
-      "avg_price": 40
+      "avg_price": 36
+    },
+    {
+      "slug": "caliban",
+      "name": "Caliban",
+      "avg_price": 36
     }
   ]
 }
