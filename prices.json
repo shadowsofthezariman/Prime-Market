@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T17:56:05.311449+00:00",
+  "updated": "2026-06-08T21:19:38.916633+00:00",
   "expensive": [
     {
       "slug": "vauban",
@@ -9,74 +9,74 @@
     {
       "slug": "limbo",
       "name": "Limbo",
-      "avg_price": 101
+      "avg_price": 106
     },
     {
       "slug": "hydroid",
       "name": "Hydroid",
-      "avg_price": 96
+      "avg_price": 99
     },
     {
       "slug": "nekros",
       "name": "Nekros",
-      "avg_price": 90
+      "avg_price": 94
     },
     {
-      "slug": "wukong",
-      "name": "Wukong",
-      "avg_price": 90
-    },
-    {
-      "slug": "mirage",
-      "name": "Mirage",
-      "avg_price": 88
-    },
-    {
-      "slug": "chroma",
-      "name": "Chroma",
-      "avg_price": 87
-    },
-    {
-      "slug": "octavia",
-      "name": "Octavia",
-      "avg_price": 87
+      "slug": "garuda",
+      "name": "Garuda",
+      "avg_price": 92
     },
     {
       "slug": "nidus",
       "name": "Nidus",
-      "avg_price": 87
+      "avg_price": 91
+    },
+    {
+      "slug": "mirage",
+      "name": "Mirage",
+      "avg_price": 90
+    },
+    {
+      "slug": "chroma",
+      "name": "Chroma",
+      "avg_price": 90
     },
     {
       "slug": "titania",
       "name": "Titania",
-      "avg_price": 85
+      "avg_price": 89
+    },
+    {
+      "slug": "octavia",
+      "name": "Octavia",
+      "avg_price": 89
     }
   ],
   "cheapest": [
     {
       "slug": "lavos",
       "name": "Lavos",
-      "avg_price": 20
+      "avg_price": 21
     },
     {
       "slug": "xaku",
       "name": "Xaku",
-      "avg_price": 24
-    },
-    {
-      "slug": "gyre",
-      "name": "Gyre",
-      "avg_price": 35
+      "avg_price": 28
     },
     {
       "slug": "protea",
       "name": "Protea",
-      "avg_price": 36
+      "avg_price": 30
     },
     {
-      "slug": "caliban",
-      "name": "Caliban",
-      "avg_price": 36
+      "slug": "gyre",
+      "name": "Gyre",
+      "avg_price": 37
+    },
+    {
+      "slug": "yareli",
+      "name": "Yareli",
+      "avg_price": 39
     }
   ]
 }
