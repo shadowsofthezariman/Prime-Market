@@ -1,40 +1,30 @@
 {
-  "updated": "2026-06-08T21:19:38.916633+00:00",
+  "updated": "2026-06-09T21:16:15.053305+00:00",
   "expensive": [
     {
       "slug": "vauban",
       "name": "Vauban",
-      "avg_price": 114
+      "avg_price": 120
     },
     {
       "slug": "limbo",
       "name": "Limbo",
-      "avg_price": 106
-    },
-    {
-      "slug": "hydroid",
-      "name": "Hydroid",
-      "avg_price": 99
+      "avg_price": 108
     },
     {
       "slug": "nekros",
       "name": "Nekros",
-      "avg_price": 94
+      "avg_price": 97
     },
     {
-      "slug": "garuda",
-      "name": "Garuda",
-      "avg_price": 92
+      "slug": "hydroid",
+      "name": "Hydroid",
+      "avg_price": 95
     },
     {
       "slug": "nidus",
       "name": "Nidus",
-      "avg_price": 91
-    },
-    {
-      "slug": "mirage",
-      "name": "Mirage",
-      "avg_price": 90
+      "avg_price": 93
     },
     {
       "slug": "chroma",
@@ -42,41 +32,51 @@
       "avg_price": 90
     },
     {
+      "slug": "garuda",
+      "name": "Garuda",
+      "avg_price": 90
+    },
+    {
+      "slug": "mirage",
+      "name": "Mirage",
+      "avg_price": 89
+    },
+    {
       "slug": "titania",
       "name": "Titania",
       "avg_price": 89
     },
     {
-      "slug": "octavia",
-      "name": "Octavia",
-      "avg_price": 89
+      "slug": "gara",
+      "name": "Gara",
+      "avg_price": 88
     }
   ],
   "cheapest": [
     {
       "slug": "lavos",
       "name": "Lavos",
-      "avg_price": 21
+      "avg_price": 20
     },
     {
       "slug": "xaku",
       "name": "Xaku",
-      "avg_price": 28
-    },
-    {
-      "slug": "protea",
-      "name": "Protea",
-      "avg_price": 30
+      "avg_price": 24
     },
     {
       "slug": "gyre",
       "name": "Gyre",
-      "avg_price": 37
+      "avg_price": 33
+    },
+    {
+      "slug": "protea",
+      "name": "Protea",
+      "avg_price": 36
     },
     {
       "slug": "yareli",
       "name": "Yareli",
-      "avg_price": 39
+      "avg_price": 40
     }
   ]
 }
