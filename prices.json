@@ -1,34 +1,44 @@
 {
-  "updated": "2026-06-09T21:16:15.053305+00:00",
+  "updated": "2026-06-10T21:37:48.930940+00:00",
   "expensive": [
     {
       "slug": "vauban",
       "name": "Vauban",
-      "avg_price": 120
+      "avg_price": 118
     },
     {
       "slug": "limbo",
       "name": "Limbo",
-      "avg_price": 108
-    },
-    {
-      "slug": "nekros",
-      "name": "Nekros",
-      "avg_price": 97
+      "avg_price": 102
     },
     {
       "slug": "hydroid",
       "name": "Hydroid",
-      "avg_price": 95
+      "avg_price": 100
+    },
+    {
+      "slug": "nekros",
+      "name": "Nekros",
+      "avg_price": 96
     },
     {
       "slug": "nidus",
       "name": "Nidus",
-      "avg_price": 93
+      "avg_price": 94
+    },
+    {
+      "slug": "mirage",
+      "name": "Mirage",
+      "avg_price": 90
     },
     {
       "slug": "chroma",
       "name": "Chroma",
+      "avg_price": 90
+    },
+    {
+      "slug": "titania",
+      "name": "Titania",
       "avg_price": 90
     },
     {
@@ -37,31 +47,21 @@
       "avg_price": 90
     },
     {
-      "slug": "mirage",
-      "name": "Mirage",
-      "avg_price": 89
-    },
-    {
-      "slug": "titania",
-      "name": "Titania",
-      "avg_price": 89
-    },
-    {
-      "slug": "gara",
-      "name": "Gara",
-      "avg_price": 88
+      "slug": "khora",
+      "name": "Khora",
+      "avg_price": 90
     }
   ],
   "cheapest": [
     {
-      "slug": "lavos",
-      "name": "Lavos",
-      "avg_price": 20
-    },
-    {
       "slug": "xaku",
       "name": "Xaku",
-      "avg_price": 24
+      "avg_price": 22
+    },
+    {
+      "slug": "lavos",
+      "name": "Lavos",
+      "avg_price": 22
     },
     {
       "slug": "gyre",
@@ -71,12 +71,12 @@
     {
       "slug": "protea",
       "name": "Protea",
-      "avg_price": 36
+      "avg_price": 34
     },
     {
-      "slug": "yareli",
-      "name": "Yareli",
-      "avg_price": 40
+      "slug": "caliban",
+      "name": "Caliban",
+      "avg_price": 36
     }
   ]
 }
