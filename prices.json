@@ -1,20 +1,15 @@
 {
-  "updated": "2026-06-11T21:36:50.987995+00:00",
+  "updated": "2026-06-12T21:06:40.861752+00:00",
   "expensive": [
     {
       "slug": "vauban",
       "name": "Vauban",
-      "avg_price": 110
+      "avg_price": 112
     },
     {
       "slug": "limbo",
       "name": "Limbo",
-      "avg_price": 104
-    },
-    {
-      "slug": "hydroid",
-      "name": "Hydroid",
-      "avg_price": 100
+      "avg_price": 108
     },
     {
       "slug": "nekros",
@@ -22,34 +17,39 @@
       "avg_price": 99
     },
     {
-      "slug": "nidus",
-      "name": "Nidus",
-      "avg_price": 94
+      "slug": "hydroid",
+      "name": "Hydroid",
+      "avg_price": 97
     },
     {
-      "slug": "garuda",
-      "name": "Garuda",
+      "slug": "nidus",
+      "name": "Nidus",
+      "avg_price": 95
+    },
+    {
+      "slug": "chroma",
+      "name": "Chroma",
       "avg_price": 91
     },
     {
-      "slug": "banshee",
-      "name": "Banshee",
-      "avg_price": 90
-    },
-    {
-      "slug": "gara",
-      "name": "Gara",
+      "slug": "titania",
+      "name": "Titania",
       "avg_price": 90
     },
     {
       "slug": "octavia",
       "name": "Octavia",
-      "avg_price": 89
+      "avg_price": 88
     },
     {
-      "slug": "khora",
-      "name": "Khora",
-      "avg_price": 89
+      "slug": "garuda",
+      "name": "Garuda",
+      "avg_price": 88
+    },
+    {
+      "slug": "banshee",
+      "name": "Banshee",
+      "avg_price": 87
     }
   ],
   "cheapest": [
@@ -61,22 +61,22 @@
     {
       "slug": "xaku",
       "name": "Xaku",
-      "avg_price": 22
+      "avg_price": 23
     },
     {
       "slug": "gyre",
       "name": "Gyre",
-      "avg_price": 35
+      "avg_price": 28
     },
     {
       "slug": "protea",
       "name": "Protea",
-      "avg_price": 39
+      "avg_price": 32
     },
     {
       "slug": "yareli",
       "name": "Yareli",
-      "avg_price": 40
+      "avg_price": 35
     }
   ]
 }
