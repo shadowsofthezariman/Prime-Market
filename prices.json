@@ -1,82 +1,82 @@
 {
-  "updated": "2026-06-12T21:06:40.861752+00:00",
+  "updated": "2026-06-13T18:03:41.159182+00:00",
   "expensive": [
     {
       "slug": "vauban",
       "name": "Vauban",
-      "avg_price": 112
+      "avg_price": 110
     },
     {
       "slug": "limbo",
       "name": "Limbo",
-      "avg_price": 108
-    },
-    {
-      "slug": "nekros",
-      "name": "Nekros",
-      "avg_price": 99
+      "avg_price": 100
     },
     {
       "slug": "hydroid",
       "name": "Hydroid",
-      "avg_price": 97
-    },
-    {
-      "slug": "nidus",
-      "name": "Nidus",
       "avg_price": 95
     },
     {
-      "slug": "chroma",
-      "name": "Chroma",
+      "slug": "nekros",
+      "name": "Nekros",
       "avg_price": 91
+    },
+    {
+      "slug": "mirage",
+      "name": "Mirage",
+      "avg_price": 90
     },
     {
       "slug": "titania",
       "name": "Titania",
-      "avg_price": 90
+      "avg_price": 89
+    },
+    {
+      "slug": "nidus",
+      "name": "Nidus",
+      "avg_price": 89
+    },
+    {
+      "slug": "chroma",
+      "name": "Chroma",
+      "avg_price": 88
     },
     {
       "slug": "octavia",
       "name": "Octavia",
-      "avg_price": 88
+      "avg_price": 86
     },
     {
       "slug": "garuda",
       "name": "Garuda",
-      "avg_price": 88
-    },
-    {
-      "slug": "banshee",
-      "name": "Banshee",
-      "avg_price": 87
+      "avg_price": 85
     }
   ],
   "cheapest": [
     {
       "slug": "lavos",
       "name": "Lavos",
-      "avg_price": 20
+      "avg_price": 22
     },
     {
       "slug": "xaku",
       "name": "Xaku",
-      "avg_price": 23
-    },
-    {
-      "slug": "gyre",
-      "name": "Gyre",
-      "avg_price": 28
+      "avg_price": 25
     },
     {
       "slug": "protea",
       "name": "Protea",
-      "avg_price": 32
+      "avg_price": 35
+    },
+    {
+      "slug": "gyre",
+      "name": "Gyre",
+      "avg_price": 35
     },
     {
       "slug": "yareli",
       "name": "Yareli",
-      "avg_price": 35
+      "avg_price": 40
     }
   ]
 }
