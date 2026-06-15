@@ -1,40 +1,40 @@
 {
-  "updated": "2026-06-14T18:52:50.941553+00:00",
+  "updated": "2026-06-15T22:30:50.497520+00:00",
   "expensive": [
     {
       "slug": "vauban",
       "name": "Vauban",
-      "avg_price": 111
-    },
-    {
-      "slug": "hydroid",
-      "name": "Hydroid",
-      "avg_price": 99
+      "avg_price": 110
     },
     {
       "slug": "limbo",
       "name": "Limbo",
-      "avg_price": 99
+      "avg_price": 100
     },
     {
       "slug": "nekros",
       "name": "Nekros",
-      "avg_price": 95
+      "avg_price": 98
+    },
+    {
+      "slug": "hydroid",
+      "name": "Hydroid",
+      "avg_price": 97
     },
     {
       "slug": "mirage",
       "name": "Mirage",
-      "avg_price": 89
+      "avg_price": 90
     },
     {
       "slug": "chroma",
       "name": "Chroma",
-      "avg_price": 89
+      "avg_price": 90
     },
     {
       "slug": "titania",
       "name": "Titania",
-      "avg_price": 89
+      "avg_price": 90
     },
     {
       "slug": "nidus",
@@ -44,39 +44,39 @@
     {
       "slug": "garuda",
       "name": "Garuda",
-      "avg_price": 88
+      "avg_price": 89
     },
     {
-      "slug": "khora",
-      "name": "Khora",
-      "avg_price": 85
+      "slug": "octavia",
+      "name": "Octavia",
+      "avg_price": 88
     }
   ],
   "cheapest": [
     {
-      "slug": "lavos",
-      "name": "Lavos",
-      "avg_price": 20
-    },
-    {
       "slug": "xaku",
       "name": "Xaku",
-      "avg_price": 25
+      "avg_price": 24
     },
     {
-      "slug": "protea",
-      "name": "Protea",
-      "avg_price": 35
-    },
-    {
-      "slug": "caliban",
-      "name": "Caliban",
-      "avg_price": 36
+      "slug": "lavos",
+      "name": "Lavos",
+      "avg_price": 24
     },
     {
       "slug": "gyre",
       "name": "Gyre",
-      "avg_price": 36
+      "avg_price": 39
+    },
+    {
+      "slug": "protea",
+      "name": "Protea",
+      "avg_price": 40
+    },
+    {
+      "slug": "caliban",
+      "name": "Caliban",
+      "avg_price": 41
     }
   ]
 }
