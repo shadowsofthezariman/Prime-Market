@@ -1,30 +1,20 @@
 {
-  "updated": "2026-06-18T21:35:29.994765+00:00",
+  "updated": "2026-06-19T19:19:34.160276+00:00",
   "expensive": [
     {
       "slug": "styanax",
       "name": "Styanax",
-      "avg_price": 133
+      "avg_price": 114
     },
     {
       "slug": "vauban",
       "name": "Vauban",
-      "avg_price": 111
+      "avg_price": 108
     },
     {
       "slug": "limbo",
       "name": "Limbo",
-      "avg_price": 99
-    },
-    {
-      "slug": "nidus",
-      "name": "Nidus",
-      "avg_price": 99
-    },
-    {
-      "slug": "hydroid",
-      "name": "Hydroid",
-      "avg_price": 98
+      "avg_price": 102
     },
     {
       "slug": "nekros",
@@ -32,51 +22,61 @@
       "avg_price": 94
     },
     {
-      "slug": "garuda",
-      "name": "Garuda",
+      "slug": "hydroid",
+      "name": "Hydroid",
+      "avg_price": 94
+    },
+    {
+      "slug": "nidus",
+      "name": "Nidus",
       "avg_price": 92
     },
     {
-      "slug": "mirage",
-      "name": "Mirage",
-      "avg_price": 90
+      "slug": "chroma",
+      "name": "Chroma",
+      "avg_price": 89
+    },
+    {
+      "slug": "garuda",
+      "name": "Garuda",
+      "avg_price": 89
     },
     {
       "slug": "titania",
       "name": "Titania",
-      "avg_price": 89
+      "avg_price": 84
     },
     {
       "slug": "octavia",
       "name": "Octavia",
-      "avg_price": 89
+      "avg_price": 83
     }
   ],
   "cheapest": [
     {
       "slug": "lavos",
       "name": "Lavos",
-      "avg_price": 20
+      "avg_price": 18
     },
     {
       "slug": "xaku",
       "name": "Xaku",
-      "avg_price": 25
-    },
-    {
-      "slug": "protea",
-      "name": "Protea",
-      "avg_price": 34
+      "avg_price": 22
     },
     {
       "slug": "yareli",
       "name": "Yareli",
-      "avg_price": 34
+      "avg_price": 26
+    },
+    {
+      "slug": "protea",
+      "name": "Protea",
+      "avg_price": 29
     },
     {
       "slug": "gyre",
       "name": "Gyre",
-      "avg_price": 34
+      "avg_price": 30
     }
   ]
 }
