@@ -1,15 +1,20 @@
 {
-  "updated": "2026-06-27T17:44:35.124470+00:00",
+  "updated": "2026-06-28T17:52:39.230322+00:00",
   "expensive": [
     {
       "slug": "vauban",
       "name": "Vauban",
-      "avg_price": 110
+      "avg_price": 111
     },
     {
       "slug": "limbo",
       "name": "Limbo",
-      "avg_price": 98
+      "avg_price": 99
+    },
+    {
+      "slug": "nekros",
+      "name": "Nekros",
+      "avg_price": 94
     },
     {
       "slug": "hydroid",
@@ -22,9 +27,9 @@
       "avg_price": 93
     },
     {
-      "slug": "nekros",
-      "name": "Nekros",
-      "avg_price": 92
+      "slug": "mirage",
+      "name": "Mirage",
+      "avg_price": 90
     },
     {
       "slug": "chroma",
@@ -34,49 +39,44 @@
     {
       "slug": "garuda",
       "name": "Garuda",
-      "avg_price": 89
-    },
-    {
-      "slug": "mirage",
-      "name": "Mirage",
-      "avg_price": 85
+      "avg_price": 90
     },
     {
       "slug": "octavia",
       "name": "Octavia",
-      "avg_price": 85
+      "avg_price": 87
     },
     {
-      "slug": "styanax",
-      "name": "Styanax",
+      "slug": "oberon",
+      "name": "Oberon",
       "avg_price": 84
     }
   ],
   "cheapest": [
-    {
-      "slug": "xaku",
-      "name": "Xaku",
-      "avg_price": 20
-    },
     {
       "slug": "lavos",
       "name": "Lavos",
       "avg_price": 20
     },
     {
+      "slug": "xaku",
+      "name": "Xaku",
+      "avg_price": 22
+    },
+    {
       "slug": "yareli",
       "name": "Yareli",
-      "avg_price": 30
+      "avg_price": 28
     },
     {
       "slug": "gyre",
       "name": "Gyre",
-      "avg_price": 30
+      "avg_price": 28
     },
     {
       "slug": "protea",
       "name": "Protea",
-      "avg_price": 33
+      "avg_price": 32
     }
   ]
 }
