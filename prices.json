@@ -1,81 +1,81 @@
 {
-  "updated": "2026-07-13T16:22:26.623080+00:00",
+  "updated": "2026-07-14T15:17:26.762134+00:00",
   "expensive": [
     {
       "slug": "vauban",
       "name": "Vauban",
-      "avg_price": 118
-    },
-    {
-      "slug": "limbo",
-      "name": "Limbo",
-      "avg_price": 97
-    },
-    {
-      "slug": "nekros",
-      "name": "Nekros",
-      "avg_price": 95
+      "avg_price": 113
     },
     {
       "slug": "banshee",
       "name": "Banshee",
+      "avg_price": 95
+    },
+    {
+      "slug": "limbo",
+      "name": "Limbo",
+      "avg_price": 95
+    },
+    {
+      "slug": "nekros",
+      "name": "Nekros",
       "avg_price": 92
     },
     {
       "slug": "hydroid",
       "name": "Hydroid",
-      "avg_price": 92
-    },
-    {
-      "slug": "chroma",
-      "name": "Chroma",
-      "avg_price": 89
+      "avg_price": 91
     },
     {
       "slug": "nidus",
       "name": "Nidus",
-      "avg_price": 89
+      "avg_price": 90
+    },
+    {
+      "slug": "chroma",
+      "name": "Chroma",
+      "avg_price": 87
     },
     {
       "slug": "mirage",
       "name": "Mirage",
-      "avg_price": 86
+      "avg_price": 85
     },
     {
       "slug": "garuda",
       "name": "Garuda",
-      "avg_price": 85
+      "avg_price": 84
     },
     {
-      "slug": "oberon",
-      "name": "Oberon",
-      "avg_price": 80
+      "slug": "octavia",
+      "name": "Octavia",
+      "avg_price": 82
     }
   ],
   "cheapest": [
     {
       "slug": "lavos",
       "name": "Lavos",
-      "avg_price": 20
-    },
-    {
-      "slug": "xaku",
-      "name": "Xaku",
-      "avg_price": 24
-    },
-    {
-      "slug": "yareli",
-      "name": "Yareli",
-      "avg_price": 29
-    },
-    {
-      "slug": "caliban",
-      "name": "Caliban",
-      "avg_price": 30
+      "avg_price": 22
     },
     {
       "slug": "gyre",
       "name": "Gyre",
+      "avg_price": 22
+    },
+    {
+      "slug": "xaku",
+      "name": "Xaku",
+      "avg_price": 23
+    },
+    {
+      "slug": "yareli",
+      "name": "Yareli",
+      "avg_price": 28
+    },
+    {
+      "slug": "caliban",
+      "name": "Caliban",
       "avg_price": 30
     }
   ]
