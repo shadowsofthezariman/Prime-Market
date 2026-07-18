@@ -1,72 +1,67 @@
 {
-  "updated": "2026-07-17T15:06:37.291466+00:00",
+  "updated": "2026-07-18T14:44:07.146400+00:00",
   "expensive": [
     {
       "slug": "vauban",
       "name": "Vauban",
-      "avg_price": 115
+      "avg_price": 113
     },
     {
       "slug": "limbo",
       "name": "Limbo",
-      "avg_price": 99
-    },
-    {
-      "slug": "nekros",
-      "name": "Nekros",
-      "avg_price": 94
+      "avg_price": 100
     },
     {
       "slug": "banshee",
       "name": "Banshee",
-      "avg_price": 93
+      "avg_price": 97
     },
     {
       "slug": "hydroid",
       "name": "Hydroid",
-      "avg_price": 92
+      "avg_price": 96
+    },
+    {
+      "slug": "nekros",
+      "name": "Nekros",
+      "avg_price": 95
     },
     {
       "slug": "chroma",
       "name": "Chroma",
-      "avg_price": 90
+      "avg_price": 93
     },
     {
       "slug": "nidus",
       "name": "Nidus",
-      "avg_price": 89
-    },
-    {
-      "slug": "mirage",
-      "name": "Mirage",
-      "avg_price": 86
-    },
-    {
-      "slug": "oberon",
-      "name": "Oberon",
-      "avg_price": 85
+      "avg_price": 90
     },
     {
       "slug": "garuda",
       "name": "Garuda",
+      "avg_price": 86
+    },
+    {
+      "slug": "mirage",
+      "name": "Mirage",
       "avg_price": 85
+    },
+    {
+      "slug": "oberon",
+      "name": "Oberon",
+      "avg_price": 84
     }
   ],
   "cheapest": [
     {
-      "slug": "xaku",
-      "name": "Xaku",
+      "slug": "lavos",
+      "name": "Lavos",
       "avg_price": 23
     },
     {
-      "slug": "lavos",
-      "name": "Lavos",
-      "avg_price": 24
-    },
-    {
-      "slug": "caliban",
-      "name": "Caliban",
-      "avg_price": 29
+      "slug": "xaku",
+      "name": "Xaku",
+      "avg_price": 25
     },
     {
       "slug": "yareli",
@@ -74,9 +69,14 @@
       "avg_price": 30
     },
     {
+      "slug": "caliban",
+      "name": "Caliban",
+      "avg_price": 33
+    },
+    {
       "slug": "gyre",
       "name": "Gyre",
-      "avg_price": 30
+      "avg_price": 33
     }
   ]
 }
