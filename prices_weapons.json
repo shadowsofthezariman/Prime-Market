@@ -1,65 +1,65 @@
 {
-  "updated": "2026-08-04T16:09:15.322636+00:00",
+  "updated": "2026-08-05T15:55:54.243187+00:00",
   "overall": {
     "expensive": [
       {
         "slug": "vectis",
         "name": "Vectis",
-        "avg_price": 142,
-        "custom_url": null
-      },
-      {
-        "slug": "spira",
-        "name": "Spira",
-        "avg_price": 116,
+        "avg_price": 139,
         "custom_url": null
       },
       {
         "slug": "akstiletto",
         "name": "Akstiletto",
-        "avg_price": 115,
+        "avg_price": 113,
         "custom_url": null
       },
       {
         "slug": "ballistica",
         "name": "Ballistica",
-        "avg_price": 110,
+        "avg_price": 113,
         "custom_url": null
       },
       {
-        "slug": "kronen",
-        "name": "Kronen",
-        "avg_price": 110,
+        "slug": "spira",
+        "name": "Spira",
+        "avg_price": 113,
         "custom_url": null
       },
       {
         "slug": "nami_skyla",
         "name": "Nami Skyla",
-        "avg_price": 109,
+        "avg_price": 110,
         "custom_url": null
       },
       {
-        "slug": "akbolto",
-        "name": "Akbolto",
+        "slug": "akjagara",
+        "name": "Akjagara",
+        "avg_price": 108,
+        "custom_url": null
+      },
+      {
+        "slug": "kronen",
+        "name": "Kronen",
         "avg_price": 108,
         "custom_url": null
       },
       {
         "slug": "aksomati",
         "name": "Aksomati",
-        "avg_price": 108,
+        "avg_price": 105,
         "custom_url": null
       },
       {
-        "slug": "akjagara",
-        "name": "Akjagara",
-        "avg_price": 102,
+        "slug": "akbolto",
+        "name": "Akbolto",
+        "avg_price": 100,
         "custom_url": null
       },
       {
         "slug": "afuris",
         "name": "Afuris",
-        "avg_price": 100,
+        "avg_price": 98,
         "custom_url": null
       }
     ],
@@ -67,6 +67,12 @@
       {
         "slug": "braton",
         "name": "Braton",
+        "avg_price": 6,
+        "custom_url": null
+      },
+      {
+        "slug": "fang",
+        "name": "Fang",
         "avg_price": 6,
         "custom_url": null
       },
@@ -83,20 +89,8 @@
         "custom_url": null
       },
       {
-        "slug": "paris",
-        "name": "Paris",
-        "avg_price": 8,
-        "custom_url": null
-      },
-      {
         "slug": "akbronco",
         "name": "Akbronco",
-        "avg_price": 8,
-        "custom_url": null
-      },
-      {
-        "slug": "fang",
-        "name": "Fang",
         "avg_price": 8,
         "custom_url": null
       },
@@ -107,15 +101,21 @@
         "custom_url": null
       },
       {
-        "slug": "kompressa",
-        "name": "Kompressa",
-        "avg_price": 10,
+        "slug": "paris",
+        "name": "Paris",
+        "avg_price": 9,
         "custom_url": null
       },
       {
         "slug": "orthos",
         "name": "Orthos",
         "avg_price": 10,
+        "custom_url": null
+      },
+      {
+        "slug": "vadarya",
+        "name": "Vadarya",
+        "avg_price": 12,
         "custom_url": null
       },
       {
@@ -131,31 +131,25 @@
       {
         "slug": "vectis",
         "name": "Vectis",
-        "avg_price": 142,
+        "avg_price": 139,
         "custom_url": null
       },
       {
         "slug": "scourge",
         "name": "Scourge",
-        "avg_price": 90,
+        "avg_price": 86,
         "custom_url": null
       },
       {
         "slug": "baza",
         "name": "Baza",
-        "avg_price": 86,
+        "avg_price": 82,
         "custom_url": null
       },
       {
         "slug": "boar",
         "name": "Boar",
-        "avg_price": 80,
-        "custom_url": null
-      },
-      {
-        "slug": "phantasma",
-        "name": "Phantasma",
-        "avg_price": 80,
+        "avg_price": 79,
         "custom_url": null
       },
       {
@@ -165,15 +159,15 @@
         "custom_url": null
       },
       {
-        "slug": "latron",
-        "name": "Latron",
-        "avg_price": 74,
+        "slug": "tenora",
+        "name": "Tenora",
+        "avg_price": 78,
         "custom_url": null
       },
       {
-        "slug": "panthera",
-        "name": "Panthera",
-        "avg_price": 73,
+        "slug": "latron",
+        "name": "Latron",
+        "avg_price": 74,
         "custom_url": null
       },
       {
@@ -183,8 +177,14 @@
         "custom_url": "gotva_prime"
       },
       {
-        "slug": "tenora",
-        "name": "Tenora",
+        "slug": "panthera",
+        "name": "Panthera",
+        "avg_price": 71,
+        "custom_url": null
+      },
+      {
+        "slug": "phantasma",
+        "name": "Phantasma",
         "avg_price": 71,
         "custom_url": null
       }
@@ -197,39 +197,33 @@
         "custom_url": null
       },
       {
-        "slug": "paris",
-        "name": "Paris",
-        "avg_price": 8,
-        "custom_url": null
-      },
-      {
         "slug": "burston",
         "name": "Burston",
         "avg_price": 9,
         "custom_url": null
       },
       {
+        "slug": "paris",
+        "name": "Paris",
+        "avg_price": 9,
+        "custom_url": null
+      },
+      {
         "slug": "vadarya",
         "name": "Vadarya",
-        "avg_price": 14,
+        "avg_price": 12,
         "custom_url": null
       },
       {
         "slug": "daikyu",
         "name": "Daikyu",
-        "avg_price": 15,
+        "avg_price": 16,
         "custom_url": null
       },
       {
         "slug": "cedo",
         "name": "Cedo",
-        "avg_price": 19,
-        "custom_url": null
-      },
-      {
-        "slug": "alternox",
-        "name": "Alternox",
-        "avg_price": 22,
+        "avg_price": 18,
         "custom_url": null
       },
       {
@@ -239,15 +233,21 @@
         "custom_url": null
       },
       {
+        "slug": "alternox",
+        "name": "Alternox",
+        "avg_price": 25,
+        "custom_url": null
+      },
+      {
         "slug": "perigale",
         "name": "Perigale",
-        "avg_price": 34,
+        "avg_price": 30,
         "custom_url": null
       },
       {
         "slug": "stradavar",
         "name": "Stradavar",
-        "avg_price": 34,
+        "avg_price": 35,
         "custom_url": null
       }
     ]
@@ -255,45 +255,45 @@
   "secondary": {
     "expensive": [
       {
-        "slug": "spira",
-        "name": "Spira",
-        "avg_price": 116,
-        "custom_url": null
-      },
-      {
         "slug": "akstiletto",
         "name": "Akstiletto",
-        "avg_price": 115,
+        "avg_price": 113,
         "custom_url": null
       },
       {
         "slug": "ballistica",
         "name": "Ballistica",
-        "avg_price": 110,
+        "avg_price": 113,
         "custom_url": null
       },
       {
-        "slug": "akbolto",
-        "name": "Akbolto",
+        "slug": "spira",
+        "name": "Spira",
+        "avg_price": 113,
+        "custom_url": null
+      },
+      {
+        "slug": "akjagara",
+        "name": "Akjagara",
         "avg_price": 108,
         "custom_url": null
       },
       {
         "slug": "aksomati",
         "name": "Aksomati",
-        "avg_price": 108,
+        "avg_price": 105,
         "custom_url": null
       },
       {
-        "slug": "akjagara",
-        "name": "Akjagara",
-        "avg_price": 102,
+        "slug": "akbolto",
+        "name": "Akbolto",
+        "avg_price": 100,
         "custom_url": null
       },
       {
         "slug": "afuris",
         "name": "Afuris",
-        "avg_price": 100,
+        "avg_price": 98,
         "custom_url": null
       },
       {
@@ -305,13 +305,13 @@
       {
         "slug": "pyrana",
         "name": "Pyrana",
-        "avg_price": 66,
+        "avg_price": 69,
         "custom_url": null
       },
       {
         "slug": "euphona",
         "name": "Euphona",
-        "avg_price": 60,
+        "avg_price": 59,
         "custom_url": null
       }
     ],
@@ -337,43 +337,43 @@
       {
         "slug": "kompressa",
         "name": "Kompressa",
-        "avg_price": 10,
+        "avg_price": 15,
         "custom_url": null
       },
       {
         "slug": "velox",
         "name": "Velox",
-        "avg_price": 16,
-        "custom_url": null
-      },
-      {
-        "slug": "vasto",
-        "name": "Vasto",
-        "avg_price": 19,
+        "avg_price": 20,
         "custom_url": null
       },
       {
         "slug": "epitaph",
         "name": "Epitaph",
-        "avg_price": 20,
+        "avg_price": 21,
+        "custom_url": null
+      },
+      {
+        "slug": "vasto",
+        "name": "Vasto",
+        "avg_price": 21,
         "custom_url": null
       },
       {
         "slug": "zylok",
         "name": "Zylok",
-        "avg_price": 24,
-        "custom_url": null
-      },
-      {
-        "slug": "athodai",
-        "name": "Athodai",
-        "avg_price": 29,
+        "avg_price": 26,
         "custom_url": null
       },
       {
         "slug": "hystrix",
         "name": "Hystrix",
-        "avg_price": 31,
+        "avg_price": 34,
+        "custom_url": null
+      },
+      {
+        "slug": "athodai",
+        "name": "Athodai",
+        "avg_price": 34,
         "custom_url": null
       }
     ]
@@ -381,45 +381,45 @@
   "melee": {
     "expensive": [
       {
-        "slug": "kronen",
-        "name": "Kronen",
+        "slug": "nami_skyla",
+        "name": "Nami Skyla",
         "avg_price": 110,
         "custom_url": null
       },
       {
-        "slug": "nami_skyla",
-        "name": "Nami Skyla",
-        "avg_price": 109,
+        "slug": "kronen",
+        "name": "Kronen",
+        "avg_price": 108,
         "custom_url": null
       },
       {
         "slug": "kogake",
         "name": "Kogake",
-        "avg_price": 96,
+        "avg_price": 98,
         "custom_url": null
       },
       {
         "slug": "destreza",
         "name": "Destreza",
-        "avg_price": 90,
+        "avg_price": 91,
         "custom_url": null
       },
       {
         "slug": "dual_kamas",
         "name": "Dual Kamas",
-        "avg_price": 88,
+        "avg_price": 87,
         "custom_url": null
       },
       {
         "slug": "bo",
         "name": "Bo",
-        "avg_price": 78,
+        "avg_price": 77,
         "custom_url": null
       },
       {
         "slug": "tekko",
         "name": "Tekko",
-        "avg_price": 75,
+        "avg_price": 76,
         "custom_url": null
       },
       {
@@ -431,13 +431,13 @@
       {
         "slug": "nikana",
         "name": "Nikana",
-        "avg_price": 69,
+        "avg_price": 68,
         "custom_url": null
       },
       {
         "slug": "dual_keres",
         "name": "Dual Keres",
-        "avg_price": 66,
+        "avg_price": 67,
         "custom_url": null
       }
     ],
@@ -445,7 +445,7 @@
       {
         "slug": "fang",
         "name": "Fang",
-        "avg_price": 8,
+        "avg_price": 6,
         "custom_url": null
       },
       {
@@ -467,27 +467,27 @@
         "custom_url": null
       },
       {
+        "slug": "sarofang",
+        "name": "Sarofang",
+        "avg_price": 20,
+        "custom_url": null
+      },
+      {
         "slug": "kestrel",
         "name": "Kestrel",
         "avg_price": 24,
         "custom_url": null
       },
       {
-        "slug": "sarofang",
-        "name": "Sarofang",
-        "avg_price": 24,
-        "custom_url": null
-      },
-      {
         "slug": "cobra_and_crane",
         "name": "Cobra & Crane",
-        "avg_price": 28,
+        "avg_price": 25,
         "custom_url": null
       },
       {
         "slug": "quassus",
         "name": "Quassus",
-        "avg_price": 29,
+        "avg_price": 30,
         "custom_url": null
       },
       {
@@ -497,9 +497,9 @@
         "custom_url": null
       },
       {
-        "slug": "volnus",
-        "name": "Volnus",
-        "avg_price": 30,
+        "slug": "dakra",
+        "name": "Dakra",
+        "avg_price": 31,
         "custom_url": null
       }
     ]
@@ -515,7 +515,7 @@
       {
         "slug": "corvas",
         "name": "Corvas",
-        "avg_price": 50,
+        "avg_price": 49,
         "custom_url": null
       }
     ]
@@ -525,43 +525,43 @@
       {
         "slug": "carrier",
         "name": "Carrier",
-        "avg_price": 96,
+        "avg_price": 98,
         "custom_url": null
       },
       {
         "slug": "wyrm",
         "name": "Wyrm",
-        "avg_price": 79,
+        "avg_price": 75,
         "custom_url": null
       },
       {
         "slug": "dethcube",
         "name": "Dethcube",
-        "avg_price": 75,
+        "avg_price": 73,
         "custom_url": null
       },
       {
         "slug": "helios",
         "name": "Helios",
-        "avg_price": 74,
+        "avg_price": 72,
         "custom_url": null
       },
       {
         "slug": "shade",
         "name": "Shade",
-        "avg_price": 49,
+        "avg_price": 52,
         "custom_url": null
       },
       {
         "slug": "nautilus",
         "name": "Nautilus",
-        "avg_price": 45,
+        "avg_price": 50,
         "custom_url": null
       },
       {
         "slug": "kavasa_prime_kubrow_collar",
         "name": "Kavasa Prime Kubrow Collar",
-        "avg_price": 29,
+        "avg_price": 28,
         "custom_url": "kavasa_prime_kubrow_collar_set"
       }
     ]
