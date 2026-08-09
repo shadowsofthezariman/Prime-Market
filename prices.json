@@ -1,10 +1,10 @@
 {
-  "updated": "2026-08-08T14:23:16.520177+00:00",
+  "updated": "2026-08-09T14:25:33.754735+00:00",
   "expensive": [
     {
       "slug": "vauban",
       "name": "Vauban",
-      "avg_price": 120
+      "avg_price": 119
     },
     {
       "slug": "limbo",
@@ -22,41 +22,41 @@
       "avg_price": 94
     },
     {
-      "slug": "chroma",
-      "name": "Chroma",
+      "slug": "nidus",
+      "name": "Nidus",
       "avg_price": 90
     },
     {
-      "slug": "nidus",
-      "name": "Nidus",
+      "slug": "chroma",
+      "name": "Chroma",
       "avg_price": 89
-    },
-    {
-      "slug": "banshee",
-      "name": "Banshee",
-      "avg_price": 88
-    },
-    {
-      "slug": "mirage",
-      "name": "Mirage",
-      "avg_price": 85
-    },
-    {
-      "slug": "oberon",
-      "name": "Oberon",
-      "avg_price": 84
     },
     {
       "slug": "octavia",
       "name": "Octavia",
       "avg_price": 84
+    },
+    {
+      "slug": "khora",
+      "name": "Khora",
+      "avg_price": 84
+    },
+    {
+      "slug": "banshee",
+      "name": "Banshee",
+      "avg_price": 82
+    },
+    {
+      "slug": "mirage",
+      "name": "Mirage",
+      "avg_price": 82
     }
   ],
   "cheapest": [
     {
       "slug": "lavos",
       "name": "Lavos",
-      "avg_price": 23
+      "avg_price": 21
     },
     {
       "slug": "xaku",
@@ -69,14 +69,14 @@
       "avg_price": 29
     },
     {
+      "slug": "gyre",
+      "name": "Gyre",
+      "avg_price": 29
+    },
+    {
       "slug": "caliban",
       "name": "Caliban",
       "avg_price": 30
-    },
-    {
-      "slug": "gyre",
-      "name": "Gyre",
-      "avg_price": 31
     }
   ]
 }
