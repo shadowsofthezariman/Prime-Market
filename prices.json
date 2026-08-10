@@ -1,25 +1,30 @@
 {
-  "updated": "2026-08-09T14:25:33.754735+00:00",
+  "updated": "2026-08-10T14:51:12.036656+00:00",
   "expensive": [
     {
       "slug": "vauban",
       "name": "Vauban",
-      "avg_price": 119
+      "avg_price": 120
     },
     {
       "slug": "limbo",
       "name": "Limbo",
-      "avg_price": 100
+      "avg_price": 99
     },
     {
       "slug": "hydroid",
       "name": "Hydroid",
-      "avg_price": 95
+      "avg_price": 96
     },
     {
       "slug": "nekros",
       "name": "Nekros",
-      "avg_price": 94
+      "avg_price": 95
+    },
+    {
+      "slug": "chroma",
+      "name": "Chroma",
+      "avg_price": 90
     },
     {
       "slug": "nidus",
@@ -27,37 +32,27 @@
       "avg_price": 90
     },
     {
-      "slug": "chroma",
-      "name": "Chroma",
-      "avg_price": 89
-    },
-    {
-      "slug": "octavia",
-      "name": "Octavia",
-      "avg_price": 84
-    },
-    {
-      "slug": "khora",
-      "name": "Khora",
-      "avg_price": 84
-    },
-    {
       "slug": "banshee",
       "name": "Banshee",
-      "avg_price": 82
+      "avg_price": 85
+    },
+    {
+      "slug": "garuda",
+      "name": "Garuda",
+      "avg_price": 85
+    },
+    {
+      "slug": "oberon",
+      "name": "Oberon",
+      "avg_price": 84
     },
     {
       "slug": "mirage",
       "name": "Mirage",
-      "avg_price": 82
+      "avg_price": 84
     }
   ],
   "cheapest": [
-    {
-      "slug": "lavos",
-      "name": "Lavos",
-      "avg_price": 21
-    },
     {
       "slug": "xaku",
       "name": "Xaku",
@@ -66,17 +61,22 @@
     {
       "slug": "yareli",
       "name": "Yareli",
+      "avg_price": 24
+    },
+    {
+      "slug": "caliban",
+      "name": "Caliban",
       "avg_price": 29
     },
     {
       "slug": "gyre",
       "name": "Gyre",
-      "avg_price": 29
+      "avg_price": 30
     },
     {
-      "slug": "caliban",
-      "name": "Caliban",
-      "avg_price": 30
+      "slug": "protea",
+      "name": "Protea",
+      "avg_price": 40
     }
   ]
 }
