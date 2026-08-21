@@ -1,148 +1,154 @@
 {
-  "updated": "2026-08-20T14:28:37.578093+00:00",
+  "updated": "2026-08-21T14:28:33.943341+00:00",
   "mods": [
     {
       "name": "Primed Chamber",
       "slug": "primed_chamber",
-      "price_unranked": 286,
-      "price_maxed": 255
+      "price_unranked": 285,
+      "price_maxed": 264
     },
     {
       "name": "Primed Cleanse Infested",
       "slug": "primed_cleanse_infested",
-      "price_unranked": 73,
-      "price_maxed": 170
+      "price_unranked": 82,
+      "price_maxed": 168
     },
     {
-      "name": "Primed Smite Orokin",
-      "slug": "primed_smite_corrupted",
-      "price_unranked": 65,
-      "price_maxed": 170
-    },
-    {
-      "name": "Primed Shotgun Ammo Mutation",
-      "slug": "primed_shotgun_ammo_mutation",
-      "price_unranked": 63,
-      "price_maxed": 160
-    },
-    {
-      "name": "Primed Cleanse Orokin",
-      "slug": "primed_cleanse_corrupted",
-      "price_unranked": 66,
-      "price_maxed": 150
-    },
-    {
-      "name": "Primed Heavy Trauma",
-      "slug": "primed_heavy_trauma",
-      "price_unranked": 55,
-      "price_maxed": 146
+      "name": "Primed Expel Orokin",
+      "slug": "primed_expel_corrupted",
+      "price_unranked": 67,
+      "price_maxed": 159
     },
     {
       "name": "Primed Ammo Stock",
       "slug": "primed_ammo_stock",
       "price_unranked": 79,
-      "price_maxed": 145
-    },
-    {
-      "name": "Primed Rifle Ammo Mutation",
-      "slug": "primed_rifle_ammo_mutation",
-      "price_unranked": 72,
-      "price_maxed": 145
+      "price_maxed": 150
     },
     {
       "name": "Primed Deadly Efficiency",
       "slug": "primed_deadly_efficiency",
-      "price_unranked": 65,
-      "price_maxed": 144
+      "price_unranked": 61,
+      "price_maxed": 150
     },
     {
-      "name": "Primed Morphic Transformer",
-      "slug": "primed_morphic_transformer",
-      "price_unranked": 52,
-      "price_maxed": 143
+      "name": "Primed Shotgun Ammo Mutation",
+      "slug": "primed_shotgun_ammo_mutation",
+      "price_unranked": 30,
+      "price_maxed": 148
     },
     {
       "name": "Primed Expel Corpus",
       "slug": "primed_expel_corpus",
-      "price_unranked": 61,
-      "price_maxed": 142
+      "price_unranked": 62,
+      "price_maxed": 147
+    },
+    {
+      "name": "Primed Cleanse Orokin",
+      "slug": "primed_cleanse_corrupted",
+      "price_unranked": 53,
+      "price_maxed": 146
     },
     {
       "name": "Primed Expel Infested",
       "slug": "primed_expel_infested",
-      "price_unranked": 48,
-      "price_maxed": 140
+      "price_unranked": 56,
+      "price_maxed": 145
+    },
+    {
+      "name": "Primed Cleanse Grineer",
+      "slug": "primed_cleanse_grineer",
+      "price_unranked": 74,
+      "price_maxed": 143
+    },
+    {
+      "name": "Primed Morphic Transformer",
+      "slug": "primed_morphic_transformer",
+      "price_unranked": 53,
+      "price_maxed": 142
     },
     {
       "name": "Primed Fast Hands",
       "slug": "primed_fast_hands",
-      "price_unranked": 59,
-      "price_maxed": 140
-    },
-    {
-      "name": "Primed Tactical Pump",
-      "slug": "primed_tactical_pump",
-      "price_unranked": 62,
-      "price_maxed": 140
-    },
-    {
-      "name": "Combo Killer",
-      "slug": "combo_killer",
-      "price_unranked": null,
-      "price_maxed": 138
-    },
-    {
-      "name": "Primed Counterbalance",
-      "slug": "primed_counterbalance",
-      "price_unranked": 71,
-      "price_maxed": 138
-    },
-    {
-      "name": "Primed Pack Leader",
-      "slug": "primed_pack_leader",
       "price_unranked": 57,
-      "price_maxed": 137
+      "price_maxed": 141
     },
     {
-      "name": "Primed Expel Orokin",
-      "slug": "primed_expel_corrupted",
-      "price_unranked": 77,
-      "price_maxed": 136
+      "name": "Primed Bane of Grineer",
+      "slug": "primed_bane_of_grineer",
+      "price_unranked": 56,
+      "price_maxed": 140
     },
     {
       "name": "Primed Dual Rounds",
       "slug": "primed_dual_rounds",
       "price_unranked": 66,
-      "price_maxed": 135
+      "price_maxed": 140
     },
     {
-      "name": "Primed Magazine Warp",
-      "slug": "primed_magazine_warp",
-      "price_unranked": 60,
-      "price_maxed": 134
-    },
-    {
-      "name": "Primed Regen",
-      "slug": "primed_regen",
-      "price_unranked": 58,
-      "price_maxed": 134
+      "name": "Primed Smite the Murmur",
+      "slug": "primed_smite_the_murmur",
+      "price_unranked": 37,
+      "price_maxed": 140
     },
     {
       "name": "Primed Bane of Orokin",
       "slug": "primed_bane_of_corrupted",
       "price_unranked": 60,
+      "price_maxed": 138
+    },
+    {
+      "name": "Primed Heavy Trauma",
+      "slug": "primed_heavy_trauma",
+      "price_unranked": 57,
+      "price_maxed": 136
+    },
+    {
+      "name": "Primed Sniper Ammo Mutation",
+      "slug": "primed_sniper_ammo_mutation",
+      "price_unranked": 44,
+      "price_maxed": 136
+    },
+    {
+      "name": "Primed Tactical Pump",
+      "slug": "primed_tactical_pump",
+      "price_unranked": 25,
+      "price_maxed": 136
+    },
+    {
+      "name": "Primed Smite Corpus",
+      "slug": "primed_smite_corpus",
+      "price_unranked": 80,
+      "price_maxed": 135
+    },
+    {
+      "name": "Primed Pack Leader",
+      "slug": "primed_pack_leader",
+      "price_unranked": 53,
+      "price_maxed": 134
+    },
+    {
+      "name": "Primed Regen",
+      "slug": "primed_regen",
+      "price_unranked": 59,
+      "price_maxed": 134
+    },
+    {
+      "name": "Primed Rifle Ammo Mutation",
+      "slug": "primed_rifle_ammo_mutation",
+      "price_unranked": 64,
       "price_maxed": 133
     },
     {
-      "name": "Primed Bane of Grineer",
-      "slug": "primed_bane_of_grineer",
-      "price_unranked": 58,
+      "name": "Primed Steady Hands",
+      "slug": "primed_steady_hands",
+      "price_unranked": 52,
       "price_maxed": 132
     },
     {
-      "name": "Primed Ravage",
-      "slug": "primed_ravage",
-      "price_unranked": 56,
+      "name": "Primed Magazine Warp",
+      "slug": "primed_magazine_warp",
+      "price_unranked": 67,
       "price_maxed": 131
     },
     {
@@ -152,166 +158,148 @@
       "price_maxed": 130
     },
     {
-      "name": "Primed Smite Corpus",
-      "slug": "primed_smite_corpus",
-      "price_unranked": 51,
+      "name": "Primed Fulmination",
+      "slug": "primed_fulmination",
+      "price_unranked": 58,
       "price_maxed": 130
     },
     {
-      "name": "Primed Steady Hands",
-      "slug": "primed_steady_hands",
-      "price_unranked": 47,
+      "name": "Primed Stabilizer",
+      "slug": "primed_stabilizer",
+      "price_unranked": 30,
       "price_maxed": 130
     },
     {
       "name": "Primed Target Cracker",
       "slug": "primed_target_cracker",
-      "price_unranked": 60,
+      "price_unranked": 59,
       "price_maxed": 130
     },
     {
-      "name": "Primed Expel Grineer",
-      "slug": "primed_expel_grineer",
-      "price_unranked": 57,
-      "price_maxed": 129
+      "name": "Combo Killer",
+      "slug": "combo_killer",
+      "price_unranked": 120,
+      "price_maxed": 128
+    },
+    {
+      "name": "Primed Cleanse Corpus",
+      "slug": "primed_cleanse_corpus",
+      "price_unranked": 53,
+      "price_maxed": 128
+    },
+    {
+      "name": "Primed Heated Charge",
+      "slug": "primed_heated_charge",
+      "price_unranked": 55,
+      "price_maxed": 128
     },
     {
       "name": "Primed Redirection",
       "slug": "primed_redirection",
-      "price_unranked": 59,
-      "price_maxed": 129
-    },
-    {
-      "name": "Primed Cleanse Grineer",
-      "slug": "primed_cleanse_grineer",
-      "price_unranked": 59,
-      "price_maxed": 128
-    },
-    {
-      "name": "Primed Firestorm",
-      "slug": "primed_firestorm",
-      "price_unranked": 57,
-      "price_maxed": 128
-    },
-    {
-      "name": "Primed Smite Grineer",
-      "slug": "primed_smite_grineer",
-      "price_unranked": 49,
+      "price_unranked": 56,
       "price_maxed": 128
     },
     {
       "name": "Primed Smite Infested",
       "slug": "primed_smite_infested",
-      "price_unranked": 41,
-      "price_maxed": 128
-    },
-    {
-      "name": "Primed Sniper Ammo Mutation",
-      "slug": "primed_sniper_ammo_mutation",
-      "price_unranked": 49,
+      "price_unranked": 38,
       "price_maxed": 126
     },
     {
-      "name": "Primed Fulmination",
-      "slug": "primed_fulmination",
-      "price_unranked": 55,
+      "name": "Primed Counterbalance",
+      "slug": "primed_counterbalance",
+      "price_unranked": 41,
       "price_maxed": 125
+    },
+    {
+      "name": "Primed Pistol Gambit",
+      "slug": "primed_pistol_gambit",
+      "price_unranked": 57,
+      "price_maxed": 124
+    },
+    {
+      "name": "Primed Smite Orokin",
+      "slug": "primed_smite_corrupted",
+      "price_unranked": 24,
+      "price_maxed": 124
+    },
+    {
+      "name": "Primed Expel Grineer",
+      "slug": "primed_expel_grineer",
+      "price_unranked": 64,
+      "price_maxed": 123
+    },
+    {
+      "name": "Primed Ravage",
+      "slug": "primed_ravage",
+      "price_unranked": 52,
+      "price_maxed": 123
+    },
+    {
+      "name": "Primed Smite Grineer",
+      "slug": "primed_smite_grineer",
+      "price_unranked": 50,
+      "price_maxed": 123
     },
     {
       "name": "Primed Cryo Rounds",
       "slug": "primed_cryo_rounds",
       "price_unranked": 56,
-      "price_maxed": 124
-    },
-    {
-      "name": "Primed Heated Charge",
-      "slug": "primed_heated_charge",
-      "price_unranked": 57,
-      "price_maxed": 123
-    },
-    {
-      "name": "Primed Bane of Infested",
-      "slug": "primed_bane_of_infested",
-      "price_unranked": 21,
-      "price_maxed": 120
+      "price_maxed": 122
     },
     {
       "name": "Primed Charged Shell",
       "slug": "primed_charged_shell",
       "price_unranked": 48,
-      "price_maxed": 120
-    },
-    {
-      "name": "Primed Pistol Gambit",
-      "slug": "primed_pistol_gambit",
-      "price_unranked": 52,
-      "price_maxed": 120
+      "price_maxed": 121
     },
     {
       "name": "Primed Reach",
       "slug": "primed_reach",
-      "price_unranked": 50,
-      "price_maxed": 120
-    },
-    {
-      "name": "Primed Smite the Murmur",
-      "slug": "primed_smite_the_murmur",
-      "price_unranked": 26,
+      "price_unranked": 47,
       "price_maxed": 118
     },
     {
-      "name": "Primed Bane of Corpus",
-      "slug": "primed_bane_of_corpus",
-      "price_unranked": 26,
+      "name": "Primed Animal Instinct",
+      "slug": "primed_animal_instinct",
+      "price_unranked": 45,
       "price_maxed": 117
     },
     {
       "name": "Primed Fever Strike",
       "slug": "primed_fever_strike",
-      "price_unranked": 46,
+      "price_unranked": 49,
       "price_maxed": 117
     },
     {
-      "name": "Primed Animal Instinct",
-      "slug": "primed_animal_instinct",
-      "price_unranked": 49,
-      "price_maxed": 116
-    },
-    {
-      "name": "Primed Cleanse Corpus",
-      "slug": "primed_cleanse_corpus",
-      "price_unranked": 58,
+      "name": "Primed Firestorm",
+      "slug": "primed_firestorm",
+      "price_unranked": 55,
       "price_maxed": 116
     },
     {
       "name": "Primed Pistol Ammo Mutation",
       "slug": "primed_pistol_ammo_mutation",
-      "price_unranked": 50,
-      "price_maxed": 116
+      "price_unranked": 55,
+      "price_maxed": 115
+    },
+    {
+      "name": "Primed Bane of Infested",
+      "slug": "primed_bane_of_infested",
+      "price_unranked": 20,
+      "price_maxed": 112
     },
     {
       "name": "Primed Point Blank",
       "slug": "primed_point_blank",
-      "price_unranked": 42,
-      "price_maxed": 112
-    },
-    {
-      "name": "Primed Quickdraw",
-      "slug": "primed_quickdraw",
-      "price_unranked": 27,
-      "price_maxed": 112
+      "price_unranked": 45,
+      "price_maxed": 110
     },
     {
       "name": "Primed Rubedo-Lined Barrel",
       "slug": "primed_rubedo_lined_barrel",
-      "price_unranked": 42,
-      "price_maxed": 110
-    },
-    {
-      "name": "Primed Stabilizer",
-      "slug": "primed_stabilizer",
-      "price_unranked": 29,
-      "price_maxed": 106
+      "price_unranked": 31,
+      "price_maxed": 105
     },
     {
       "name": "Primed Slip Magazine",
@@ -322,215 +310,192 @@
     {
       "name": "Primed Continuity",
       "slug": "primed_continuity",
-      "price_unranked": 43,
+      "price_unranked": 44,
       "price_maxed": 103
+    },
+    {
+      "name": "Primed Quickdraw",
+      "slug": "primed_quickdraw",
+      "price_unranked": 23,
+      "price_maxed": 100
     },
     {
       "name": "Primed Chilling Grasp",
       "slug": "primed_chilling_grasp",
-      "price_unranked": 27,
-      "price_maxed": 98
+      "price_unranked": 31,
+      "price_maxed": 96
     },
     {
-      "name": "Split Flights",
-      "slug": "split_flights",
-      "price_unranked": 59,
-      "price_maxed": 91
+      "name": "Primed Bane of Corpus",
+      "slug": "primed_bane_of_corpus",
+      "price_unranked": 27,
+      "price_maxed": 95
     },
     {
       "name": "Primed Flow",
       "slug": "primed_flow",
-      "price_unranked": 27,
-      "price_maxed": 84
-    },
-    {
-      "name": "Primed Pressure Point",
-      "slug": "primed_pressure_point",
-      "price_unranked": 22,
-      "price_maxed": 77
+      "price_unranked": 31,
+      "price_maxed": 91
     },
     {
       "name": "Mark of the Beast",
       "slug": "mark_of_the_beast",
-      "price_unranked": 114,
-      "price_maxed": 71
+      "price_unranked": 79,
+      "price_maxed": 87
+    },
+    {
+      "name": "Primed Pressure Point",
+      "slug": "primed_pressure_point",
+      "price_unranked": 26,
+      "price_maxed": 80
+    },
+    {
+      "name": "Split Flights",
+      "slug": "split_flights",
+      "price_unranked": 64,
+      "price_maxed": 78
     },
     {
       "name": "Combo Fury",
       "slug": "combo_fury",
-      "price_unranked": 40,
+      "price_unranked": 95,
       "price_maxed": 69
     },
     {
       "name": "Vermillion Storm",
       "slug": "vermillion_storm",
-      "price_unranked": 25,
-      "price_maxed": 68
+      "price_unranked": 22,
+      "price_maxed": 63
     },
     {
       "name": "Voltaic Strike",
       "slug": "voltaic_strike",
-      "price_unranked": 50,
-      "price_maxed": 55
+      "price_unranked": 45,
+      "price_maxed": 59
     },
     {
-      "name": "Sweeping Serration",
-      "slug": "sweeping_serration",
-      "price_unranked": 6,
-      "price_maxed": 51
+      "name": "Peculiar Audience",
+      "slug": "peculiar_audience",
+      "price_unranked": 44,
+      "price_maxed": 58
     },
     {
       "name": "Jolt",
       "slug": "jolt",
-      "price_unranked": 38,
+      "price_unranked": 40,
       "price_maxed": 47
-    },
-    {
-      "name": "High Voltage",
-      "slug": "high_voltage",
-      "price_unranked": 39,
-      "price_maxed": 45
     },
     {
       "name": "Tempo Royale",
       "slug": "tempo_royale",
+      "price_unranked": 30,
+      "price_maxed": 46
+    },
+    {
+      "name": "High Voltage",
+      "slug": "high_voltage",
       "price_unranked": 38,
-      "price_maxed": 45
+      "price_maxed": 44
     },
     {
       "name": "Buzz Kill",
       "slug": "buzz_kill",
       "price_unranked": 14,
-      "price_maxed": 36
+      "price_maxed": 31
     },
     {
       "name": "Shell Shock",
       "slug": "shell_shock",
-      "price_unranked": 24,
-      "price_maxed": 36
-    },
-    {
-      "name": "Peculiar Audience",
-      "slug": "peculiar_audience",
-      "price_unranked": 45,
-      "price_maxed": 29
-    },
-    {
-      "name": "Fanged Fusillade",
-      "slug": "fanged_fusillade",
-      "price_unranked": 9,
-      "price_maxed": 28
+      "price_unranked": 18,
+      "price_maxed": 27
     },
     {
       "name": "Maim",
       "slug": "maim",
       "price_unranked": 10,
-      "price_maxed": 27
-    },
-    {
-      "name": "Crash Course",
-      "slug": "crash_course",
-      "price_unranked": 4,
-      "price_maxed": 24
+      "price_maxed": 26
     },
     {
       "name": "Thermite Rounds",
       "slug": "thermite_rounds",
-      "price_unranked": 17,
-      "price_maxed": 24
+      "price_unranked": 18,
+      "price_maxed": 18
+    },
+    {
+      "name": "Fanged Fusillade",
+      "slug": "fanged_fusillade",
+      "price_unranked": 8,
+      "price_maxed": 16
     },
     {
       "name": "Astral Twilight",
       "slug": "astral_twilight",
       "price_unranked": 10,
-      "price_maxed": 18
-    },
-    {
-      "name": "Scorch",
-      "slug": "scorch",
-      "price_unranked": 9,
       "price_maxed": 15
-    },
-    {
-      "name": "Collision Force",
-      "slug": "collision_force",
-      "price_unranked": 4,
-      "price_maxed": 13
-    },
-    {
-      "name": "Scattering Inferno",
-      "slug": "scattering_inferno",
-      "price_unranked": 8,
-      "price_maxed": 13
     },
     {
       "name": "Volcanic Edge",
       "slug": "volcanic_edge",
-      "price_unranked": 8,
-      "price_maxed": 13
+      "price_unranked": 9,
+      "price_maxed": 14
     },
     {
       "name": "Full Contact",
       "slug": "full_contact",
       "price_unranked": 4,
-      "price_maxed": 12
+      "price_maxed": 13
     },
     {
       "name": "Pummel",
       "slug": "pummel",
       "price_unranked": 4,
+      "price_maxed": 13
+    },
+    {
+      "name": "Collision Force",
+      "slug": "collision_force",
+      "price_unranked": 5,
       "price_maxed": 12
+    },
+    {
+      "name": "Crash Course",
+      "slug": "crash_course",
+      "price_unranked": 6,
+      "price_maxed": 12
+    },
+    {
+      "name": "Scattering Inferno",
+      "slug": "scattering_inferno",
+      "price_unranked": 7,
+      "price_maxed": 12
+    },
+    {
+      "name": "Scorch",
+      "slug": "scorch",
+      "price_unranked": 8,
+      "price_maxed": 12
+    },
+    {
+      "name": "Sweeping Serration",
+      "slug": "sweeping_serration",
+      "price_unranked": 9,
+      "price_maxed": 11
     }
   ],
   "weapons": [
     {
-      "name": "Prisma Tetra",
-      "slug": "prisma_tetra",
-      "avg_price": 98
-    },
-    {
-      "name": "Prisma Veritux",
-      "slug": "prisma_veritux",
-      "avg_price": 97
-    },
-    {
       "name": "Opticor Vandal",
       "slug": "opticor_vandal",
-      "avg_price": 93
-    },
-    {
-      "name": "Prisma Twin Gremlins",
-      "slug": "prisma_twin_gremlins",
-      "avg_price": 90
+      "avg_price": 98
     },
     {
       "name": "Prisma Dual Decurions",
       "slug": "prisma_dual_decurions",
-      "avg_price": 86
+      "avg_price": 88
     },
     {
-      "name": "Prisma Lenz",
-      "slug": "prisma_lenz",
-      "avg_price": 86
-    },
-    {
-      "name": "Prisma Gorgon",
-      "slug": "prisma_gorgon",
-      "avg_price": 85
-    },
-    {
-      "name": "Prisma Obex",
-      "slug": "prisma_obex",
-      "avg_price": 84
-    },
-    {
-      "name": "Vericres",
-      "slug": "vericres",
-      "avg_price": 84
-    },
-    {
-      "name": "Vulkar Wraith",
-      "slug": "vulkar_wraith",
+      "name": "Prisma Veritux",
+      "slug": "prisma_veritux",
       "avg_price": 83
     },
     {
@@ -539,49 +504,59 @@
       "avg_price": 82
     },
     {
-      "name": "Gotva Prime",
-      "slug": "gotva_prime",
+      "name": "Prisma Gorgon",
+      "slug": "prisma_gorgon",
+      "avg_price": 80
+    },
+    {
+      "name": "Prisma Lenz",
+      "slug": "prisma_lenz",
       "avg_price": 79
     },
     {
-      "name": "Prisma Grakata",
-      "slug": "prisma_grakata",
-      "avg_price": 77
+      "name": "Prisma Obex",
+      "slug": "prisma_obex",
+      "avg_price": 76
     },
     {
-      "name": "Prova Vandal",
-      "slug": "prova_vandal",
-      "avg_price": 77
+      "name": "Vulkar Wraith",
+      "slug": "vulkar_wraith",
+      "avg_price": 76
     },
     {
       "name": "Halikar Wraith",
       "slug": "halikar_wraith",
-      "avg_price": 76
+      "avg_price": 71
     },
     {
-      "name": "Prisma Grinlok",
-      "slug": "prisma_grinlok",
-      "avg_price": 74
+      "name": "Prisma Twin Gremlins",
+      "slug": "prisma_twin_gremlins",
+      "avg_price": 71
     },
     {
-      "name": "Zylok",
-      "slug": "zylok",
-      "avg_price": 70
+      "name": "Vericres",
+      "slug": "vericres",
+      "avg_price": 71
     },
     {
-      "name": "Mara Detron",
-      "slug": "mara_detron",
+      "name": "Gotva Prime",
+      "slug": "gotva_prime",
       "avg_price": 69
-    },
-    {
-      "name": "Viper Wraith",
-      "slug": "viper_wraith",
-      "avg_price": 68
     },
     {
       "name": "Prisma Skana",
       "slug": "prisma_skana",
-      "avg_price": 67
+      "avg_price": 69
+    },
+    {
+      "name": "Mara Detron",
+      "slug": "mara_detron",
+      "avg_price": 68
+    },
+    {
+      "name": "Prisma Grinlok",
+      "slug": "prisma_grinlok",
+      "avg_price": 68
     },
     {
       "name": "Prisma Ohma",
@@ -589,71 +564,96 @@
       "avg_price": 66
     },
     {
+      "name": "Prisma Tetra",
+      "slug": "prisma_tetra",
+      "avg_price": 65
+    },
+    {
       "name": "Quanta Vandal",
       "slug": "quanta_vandal",
-      "avg_price": 64
+      "avg_price": 63
     },
     {
-      "name": "Supra Vandal",
-      "slug": "supra_vandal",
-      "avg_price": 64
+      "name": "Prisma Grakata",
+      "slug": "prisma_grakata",
+      "avg_price": 62
     },
     {
-      "name": "Prisma Angstrum",
-      "slug": "prisma_angstrum",
-      "avg_price": 60
+      "name": "Viper Wraith",
+      "slug": "viper_wraith",
+      "avg_price": 62
     },
     {
       "name": "Vastilok",
       "slug": "vastilok",
-      "avg_price": 57
+      "avg_price": 59
+    },
+    {
+      "name": "Prisma Angstrum",
+      "slug": "prisma_angstrum",
+      "avg_price": 58
+    },
+    {
+      "name": "Zylok",
+      "slug": "zylok",
+      "avg_price": 52
+    },
+    {
+      "name": "Supra Vandal",
+      "slug": "supra_vandal",
+      "avg_price": 51
     },
     {
       "name": "Prisma Machete",
       "slug": "prisma_machete",
-      "avg_price": 44
+      "avg_price": 37
     },
     {
       "name": "Prisma Dual Cleavers",
       "slug": "prisma_dual_cleavers",
-      "avg_price": 39
+      "avg_price": 30
     },
     {
       "name": "Machete Wraith",
       "slug": "machete_wraith",
-      "avg_price": 32
+      "avg_price": 29
+    },
+    {
+      "name": "Prova Vandal",
+      "slug": "prova_vandal",
+      "avg_price": 29
     }
   ],
   "other": [
     {
       "name": "Axi A2 Relic",
       "slug": "axi_a2_relic",
-      "avg_price": 46
+      "avg_price": 13
     },
     {
       "name": "Axi A5 Relic",
       "slug": "axi_a5_relic",
-      "avg_price": 65
+      "avg_price": 92
     },
     {
       "name": "Axi M5 Relic",
       "slug": "axi_m5_relic",
-      "avg_price": 29
+      "avg_price": 20
     },
     {
       "name": "Axi V8 Relic",
       "slug": "axi_v8_relic",
-      "avg_price": 10
+      "avg_price": 20
     },
     {
       "name": "Neo O1 Relic",
       "slug": "neo_o1_relic",
-      "avg_price": 43
+      "avg_price": 40
     },
     {
       "name": "Baro Void-Signal",
       "slug": "baro_void_signal_(key)",
-      "avg_price": 125
+      "avg_price": 90
     }
   ]
 }
