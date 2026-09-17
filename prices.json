@@ -1,67 +1,67 @@
 {
-  "updated": "2026-09-16T17:52:24.094103+00:00",
+  "updated": "2026-09-17T17:51:53.102768+00:00",
   "expensive": [
     {
       "slug": "vauban",
       "name": "Vauban",
-      "avg_price": 119
-    },
-    {
-      "slug": "nekros",
-      "name": "Nekros",
-      "avg_price": 100
+      "avg_price": 118
     },
     {
       "slug": "limbo",
       "name": "Limbo",
+      "avg_price": 100
+    },
+    {
+      "slug": "nekros",
+      "name": "Nekros",
       "avg_price": 99
     },
     {
       "slug": "hydroid",
       "name": "Hydroid",
-      "avg_price": 94
-    },
-    {
-      "slug": "chroma",
-      "name": "Chroma",
-      "avg_price": 89
+      "avg_price": 95
     },
     {
       "slug": "nidus",
       "name": "Nidus",
-      "avg_price": 89
+      "avg_price": 90
     },
     {
-      "slug": "octavia",
-      "name": "Octavia",
-      "avg_price": 85
-    },
-    {
-      "slug": "garuda",
-      "name": "Garuda",
-      "avg_price": 85
+      "slug": "chroma",
+      "name": "Chroma",
+      "avg_price": 88
     },
     {
       "slug": "oberon",
       "name": "Oberon",
-      "avg_price": 84
+      "avg_price": 83
     },
     {
-      "slug": "khora",
-      "name": "Khora",
+      "slug": "octavia",
+      "name": "Octavia",
+      "avg_price": 82
+    },
+    {
+      "slug": "garuda",
+      "name": "Garuda",
       "avg_price": 80
+    },
+    {
+      "slug": "frost",
+      "name": "Frost",
+      "avg_price": 79
     }
   ],
   "cheapest": [
     {
       "slug": "lavos",
       "name": "Lavos",
-      "avg_price": 23
+      "avg_price": 25
     },
     {
       "slug": "xaku",
       "name": "Xaku",
-      "avg_price": 29
+      "avg_price": 30
     },
     {
       "slug": "yareli",
@@ -69,14 +69,14 @@
       "avg_price": 30
     },
     {
-      "slug": "caliban",
-      "name": "Caliban",
-      "avg_price": 31
-    },
-    {
       "slug": "gyre",
       "name": "Gyre",
-      "avg_price": 34
+      "avg_price": 32
+    },
+    {
+      "slug": "caliban",
+      "name": "Caliban",
+      "avg_price": 35
     }
   ]
 }
