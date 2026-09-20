@@ -122,6 +122,9 @@ BARO_MODS = [
     ("Volcanic Edge",                "volcanic_edge"),
     ("Voltaic Strike",               "voltaic_strike"),
     ("Peculiar Audience",            "peculiar_audience"),
+    ("Primed Polar Magazine",        "primed_polar_magazine"),
+    ("Primed Venomous Clip",        "primed_venomous_clip"),
+    
 ]
 
 # ── WEAPON LIST ───────────────────────────────────────────────────────────────
