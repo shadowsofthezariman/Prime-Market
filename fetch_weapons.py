@@ -47,6 +47,7 @@ WEAPON_SETS = [
     ("vectis",            "Vectis",            "primary",   None),
     ("zhuge",             "Zhuge",             "primary",   None),
     ("afentis",             "Afentis",             "primary",   None),
+    ("steflos",             "Steflos",             "primary",   None),
 
     # ── SECONDARY ────────────────────────────────────────────────────────────
     ("afuris",            "Afuris",            "secondary", None),
@@ -122,6 +123,7 @@ WEAPON_SETS = [
     ("venato",            "Venato",            "melee",     None),
     ("venka",             "Venka",             "melee",     None),
     ("volnus",            "Volnus",            "melee",     None),
+    ("corufell",             "Corufell",             "melee",   None),
 
     # ── ARCHGUN ──────────────────────────────────────────────────────────────
     ("corvas",            "Corvas",            "archgun",   None),
