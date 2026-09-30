@@ -1,10 +1,15 @@
 {
-  "updated": "2026-09-29T18:59:54.040180+00:00",
+  "updated": "2026-09-30T18:44:01.122777+00:00",
   "expensive": [
     {
       "slug": "vauban",
       "name": "Vauban",
-      "avg_price": 119
+      "avg_price": 117
+    },
+    {
+      "slug": "citrine",
+      "name": "Citrine",
+      "avg_price": 100
     },
     {
       "slug": "nekros",
@@ -12,29 +17,29 @@
       "avg_price": 99
     },
     {
-      "slug": "citrine",
-      "name": "Citrine",
-      "avg_price": 99
-    },
-    {
       "slug": "limbo",
       "name": "Limbo",
-      "avg_price": 95
-    },
-    {
-      "slug": "nidus",
-      "name": "Nidus",
-      "avg_price": 94
+      "avg_price": 96
     },
     {
       "slug": "hydroid",
       "name": "Hydroid",
-      "avg_price": 88
+      "avg_price": 91
+    },
+    {
+      "slug": "nidus",
+      "name": "Nidus",
+      "avg_price": 91
     },
     {
       "slug": "chroma",
       "name": "Chroma",
-      "avg_price": 88
+      "avg_price": 90
+    },
+    {
+      "slug": "octavia",
+      "name": "Octavia",
+      "avg_price": 86
     },
     {
       "slug": "oberon",
@@ -42,41 +47,36 @@
       "avg_price": 85
     },
     {
-      "slug": "octavia",
-      "name": "Octavia",
-      "avg_price": 83
-    },
-    {
       "slug": "garuda",
       "name": "Garuda",
-      "avg_price": 82
+      "avg_price": 85
     }
   ],
   "cheapest": [
     {
       "slug": "lavos",
       "name": "Lavos",
-      "avg_price": 22
+      "avg_price": 20
     },
     {
       "slug": "xaku",
       "name": "Xaku",
+      "avg_price": 24
+    },
+    {
+      "slug": "yareli",
+      "name": "Yareli",
       "avg_price": 25
     },
     {
       "slug": "gyre",
       "name": "Gyre",
-      "avg_price": 25
-    },
-    {
-      "slug": "yareli",
-      "name": "Yareli",
-      "avg_price": 28
+      "avg_price": 26
     },
     {
       "slug": "caliban",
       "name": "Caliban",
-      "avg_price": 30
+      "avg_price": 27
     }
   ]
 }
