@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-01T18:41:07.093547+00:00",
+  "updated": "2026-11-02T22:31:30.788759+00:00",
   "expensive": [
     {
       "slug": "vauban",
       "name": "Vauban",
-      "avg_price": 109
+      "avg_price": 112
     },
     {
       "slug": "limbo",
       "name": "Limbo",
-      "avg_price": 95
+      "avg_price": 96
     },
     {
       "slug": "nekros",
@@ -19,37 +19,37 @@
     {
       "slug": "hydroid",
       "name": "Hydroid",
-      "avg_price": 83
-    },
-    {
-      "slug": "chroma",
-      "name": "Chroma",
-      "avg_price": 82
+      "avg_price": 87
     },
     {
       "slug": "oberon",
       "name": "Oberon",
-      "avg_price": 80
-    },
-    {
-      "slug": "octavia",
-      "name": "Octavia",
-      "avg_price": 79
-    },
-    {
-      "slug": "zephyr",
-      "name": "Zephyr",
-      "avg_price": 75
+      "avg_price": 86
     },
     {
       "slug": "khora",
       "name": "Khora",
-      "avg_price": 75
+      "avg_price": 80
     },
     {
-      "slug": "loki",
-      "name": "Loki",
-      "avg_price": 73
+      "slug": "citrine",
+      "name": "Citrine",
+      "avg_price": 80
+    },
+    {
+      "slug": "chroma",
+      "name": "Chroma",
+      "avg_price": 79
+    },
+    {
+      "slug": "octavia",
+      "name": "Octavia",
+      "avg_price": 78
+    },
+    {
+      "slug": "garuda",
+      "name": "Garuda",
+      "avg_price": 77
     }
   ],
   "cheapest": [
@@ -59,9 +59,9 @@
       "avg_price": 20
     },
     {
-      "slug": "yareli",
-      "name": "Yareli",
-      "avg_price": 25
+      "slug": "xaku",
+      "name": "Xaku",
+      "avg_price": 23
     },
     {
       "slug": "gyre",
@@ -69,14 +69,14 @@
       "avg_price": 25
     },
     {
-      "slug": "protea",
-      "name": "Protea",
-      "avg_price": 29
+      "slug": "yareli",
+      "name": "Yareli",
+      "avg_price": 26
     },
     {
-      "slug": "xaku",
-      "name": "Xaku",
-      "avg_price": 29
+      "slug": "caliban",
+      "name": "Caliban",
+      "avg_price": 28
     }
   ]
 }
