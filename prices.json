@@ -1,15 +1,15 @@
 {
-  "updated": "2026-11-03T20:20:57.209202+00:00",
+  "updated": "2026-11-04T20:36:59.546762+00:00",
   "expensive": [
     {
       "slug": "vauban",
       "name": "Vauban",
-      "avg_price": 110
+      "avg_price": 109
     },
     {
       "slug": "limbo",
       "name": "Limbo",
-      "avg_price": 93
+      "avg_price": 95
     },
     {
       "slug": "nekros",
@@ -17,66 +17,66 @@
       "avg_price": 90
     },
     {
+      "slug": "hydroid",
+      "name": "Hydroid",
+      "avg_price": 89
+    },
+    {
       "slug": "oberon",
       "name": "Oberon",
-      "avg_price": 86
+      "avg_price": 85
+    },
+    {
+      "slug": "garuda",
+      "name": "Garuda",
+      "avg_price": 80
     },
     {
       "slug": "chroma",
       "name": "Chroma",
-      "avg_price": 85
-    },
-    {
-      "slug": "hydroid",
-      "name": "Hydroid",
-      "avg_price": 83
-    },
-    {
-      "slug": "citrine",
-      "name": "Citrine",
-      "avg_price": 83
+      "avg_price": 79
     },
     {
       "slug": "octavia",
       "name": "Octavia",
-      "avg_price": 80
+      "avg_price": 79
     },
     {
-      "slug": "nezha",
-      "name": "Nezha",
-      "avg_price": 78
+      "slug": "khora",
+      "name": "Khora",
+      "avg_price": 79
     },
     {
-      "slug": "zephyr",
-      "name": "Zephyr",
-      "avg_price": 77
+      "slug": "frost",
+      "name": "Frost",
+      "avg_price": 75
     }
   ],
   "cheapest": [
     {
       "slug": "lavos",
       "name": "Lavos",
-      "avg_price": 20
-    },
-    {
-      "slug": "gyre",
-      "name": "Gyre",
       "avg_price": 22
     },
     {
       "slug": "yareli",
       "name": "Yareli",
-      "avg_price": 24
+      "avg_price": 25
+    },
+    {
+      "slug": "gyre",
+      "name": "Gyre",
+      "avg_price": 25
+    },
+    {
+      "slug": "caliban",
+      "name": "Caliban",
+      "avg_price": 26
     },
     {
       "slug": "xaku",
       "name": "Xaku",
-      "avg_price": 26
-    },
-    {
-      "slug": "protea",
-      "name": "Protea",
-      "avg_price": 30
+      "avg_price": 28
     }
   ]
 }
