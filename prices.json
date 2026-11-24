@@ -1,62 +1,72 @@
 {
-  "updated": "2026-11-24T01:24:22.191015+00:00",
+  "updated": "2026-11-24T23:19:43.426014+00:00",
   "expensive": [
     {
       "slug": "vauban",
       "name": "Vauban",
-      "avg_price": 114
+      "avg_price": 110
     },
     {
       "slug": "limbo",
       "name": "Limbo",
-      "avg_price": 94
+      "avg_price": 99
     },
     {
       "slug": "nekros",
       "name": "Nekros",
-      "avg_price": 89
-    },
-    {
-      "slug": "oberon",
-      "name": "Oberon",
-      "avg_price": 85
-    },
-    {
-      "slug": "hydroid",
-      "name": "Hydroid",
-      "avg_price": 84
+      "avg_price": 94
     },
     {
       "slug": "octavia",
       "name": "Octavia",
-      "avg_price": 80
+      "avg_price": 93
     },
     {
       "slug": "chroma",
       "name": "Chroma",
-      "avg_price": 79
+      "avg_price": 90
+    },
+    {
+      "slug": "oberon",
+      "name": "Oberon",
+      "avg_price": 88
+    },
+    {
+      "slug": "hydroid",
+      "name": "Hydroid",
+      "avg_price": 83
+    },
+    {
+      "slug": "loki",
+      "name": "Loki",
+      "avg_price": 82
     },
     {
       "slug": "zephyr",
       "name": "Zephyr",
-      "avg_price": 76
+      "avg_price": 78
     },
     {
       "slug": "garuda",
       "name": "Garuda",
-      "avg_price": 75
-    },
-    {
-      "slug": "khora",
-      "name": "Khora",
-      "avg_price": 75
+      "avg_price": 78
     }
   ],
   "cheapest": [
     {
       "slug": "lavos",
       "name": "Lavos",
-      "avg_price": 19
+      "avg_price": 20
+    },
+    {
+      "slug": "caliban",
+      "name": "Caliban",
+      "avg_price": 23
+    },
+    {
+      "slug": "yareli",
+      "name": "Yareli",
+      "avg_price": 24
     },
     {
       "slug": "gyre",
@@ -64,19 +74,9 @@
       "avg_price": 24
     },
     {
-      "slug": "yareli",
-      "name": "Yareli",
-      "avg_price": 25
-    },
-    {
-      "slug": "caliban",
-      "name": "Caliban",
+      "slug": "xaku",
+      "name": "Xaku",
       "avg_price": 28
-    },
-    {
-      "slug": "styanax",
-      "name": "Styanax",
-      "avg_price": 30
     }
   ]
 }
